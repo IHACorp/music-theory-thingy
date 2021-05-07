@@ -20,6 +20,28 @@ Major
 6. iv sus2, sus4
 7. viio None
 
+- Maj : 1 3 5
+- sus2: 1 2 5
+- sus4: 1 4 5 
+
+> Vsus = Vsus2 or Vsus4 works, if there is any, it is my personal preference
+- Pulling back to major: Isus4 - I - Isus2 - I
+- Cadence before the V : Vsus - V - I 
+- N6 preparing for dom : N6 - Vsus4 - V - I
+  - Also works in minor: N6 - Vsus4 - V - i
+
+# Neopolitan (N6)
+bII in first inversion
+
+Example: A major
+```
+A  B   C#   D   E  F#  G#
+I  ii  iii  IV  V  vi  viio
+
+ii  = Bmin  = B  D  F#
+bII = BbMaj = Bb D  F   
+N6  = Bb/D  = D  Bb F 
+```
 # Altcodes
 https://altcodeunicode.com/alt-codes-musical-note-instrument-symbols/
 - flat ♭
