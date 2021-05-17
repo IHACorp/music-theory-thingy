@@ -30,7 +30,7 @@ Major
 - N6 preparing for dom : N6 - Vsus4 - V - I
   - Also works in minor: N6 - Vsus4 - V - i
 
-# Neopolitan (N6)
+## Neopolitan (N6)
 bII in first inversion
 
 Example: A major
@@ -42,6 +42,13 @@ ii  = Bmin  = B  D  F#
 bII = BbMaj = Bb D  F   
 N6  = Bb/D  = D  Bb F 
 ```
+
+## Fancy power chords
+### Octave Power chord
+Just the root and the octave, really good for fiddling around and composing... Only when you get a 
+good simple idea you start adding the fancy stuff\
+![PowChor-Octave](https://user-images.githubusercontent.com/65428925/118488417-16746600-b6f2-11eb-884d-0116802fa0a7.png)
+
 # Altcodes
 https://altcodeunicode.com/alt-codes-musical-note-instrument-symbols/
 - flat ♭
