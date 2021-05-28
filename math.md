@@ -78,10 +78,12 @@ Major
 
 
 # Chords
-sources: 
+sources (go way more in depth about how to use them): 
 - [Trevor Wong | Math Rock And Emo Chords: Every Chord You Need](https://www.youtube.com/watch?v=8E-Ajb7ABdE)
 - [twooba | Fancy Power Chords](https://www.youtube.com/watch?v=KFqm4QXWuxI)
 - [twooba | How to Use Octave Power Chords](https://www.youtube.com/watch?v=WsB968ims4w)
+
+Or made with: https://chordpic.com/help/
 
 ## Sus2 
 ![](https://user-images.githubusercontent.com/65428925/120034392-61845800-bfd3-11eb-9002-39116a0a7918.png)
@@ -168,6 +170,10 @@ Broken Voicing
 ![](https://user-images.githubusercontent.com/65428925/120034033-d4410380-bfd2-11eb-804f-ab75f4a1b098.png)
 ![](https://user-images.githubusercontent.com/65428925/120034035-d4d99a00-bfd2-11eb-8b9c-c8bd9ab5c323.png)
 ![](https://user-images.githubusercontent.com/65428925/120034036-d5723080-bfd2-11eb-937b-cbfa66dfb9cf.png)
+
+## Misc
+### 13: 1 b7 3 6 ( 1 b7 11 13)
+![](https://user-images.githubusercontent.com/65428925/120035799-85e13400-bfd5-11eb-962e-6d643c790f94.png) 
 
 ## Octave Power chord
 Just the root and the octave, really good for fiddling around and composing... Only when you get a 
