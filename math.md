@@ -65,6 +65,18 @@ Major
 6. iv Minor 9
 7. viio None (mi7b5)
 
+## 11 stuff
+### diatonic 11th
+Major
+1. I Major 
+2. ii Minor 11
+3. iii Minor 11 (no 9)
+4. IV Major 
+5. V Dominant 
+6. iv Minor 11
+7. viio None
+
+
 # Chords
 ## General pourpose shapes
 sources: https://www.youtube.com/watch?v=8E-Ajb7ABdE , 
@@ -77,16 +89,12 @@ sources: https://www.youtube.com/watch?v=8E-Ajb7ABdE ,
 
 Broken Voicing
 
-1 5 7
-
 ![](https://user-images.githubusercontent.com/65428925/120030441-dce30b00-bfcd-11eb-933a-376756adaff0.png)
 ![](https://user-images.githubusercontent.com/65428925/120030596-0c921300-bfce-11eb-92b8-0922ee85929d.png)
-![](https://user-images.githubusercontent.com/65428925/120031065-a48ffc80-bfce-11eb-976f-ec1f345c21cb.png)
-
-1 3 7
+![](https://user-images.githubusercontent.com/65428925/120031065-a48ffc80-bfce-11eb-976f-ec1f345c21cb.png) 1 5 7
 
 ![](https://user-images.githubusercontent.com/65428925/120030511-f3896200-bfcd-11eb-9c70-7b8be5a47b6e.png)
-![](https://user-images.githubusercontent.com/65428925/120030704-2df2ff00-bfce-11eb-9a13-aaee3083ab74.png)
+![](https://user-images.githubusercontent.com/65428925/120030704-2df2ff00-bfce-11eb-9a13-aaee3083ab74.png) 1 3 7
 
 ### Ma9
 ![](https://user-images.githubusercontent.com/65428925/120031272-f9cc0e00-bfce-11eb-9ceb-381513fcc8be.png)
@@ -122,18 +130,29 @@ Broken Voicing
 # Mi7
 ![](https://user-images.githubusercontent.com/65428925/120032630-d99d4e80-bfd0-11eb-8078-ca7eda973c82.png)
 
+Broken Voicing
+
+
 ![](https://user-images.githubusercontent.com/65428925/120032669-eae65b00-bfd0-11eb-86da-41b2510fc9b0.png) 1 5 b7
 
 ![](https://user-images.githubusercontent.com/65428925/120033020-69db9380-bfd1-11eb-829a-c60a778cfd22.png)
 ![](https://user-images.githubusercontent.com/65428925/120032892-3ef13f80-bfd1-11eb-98af-d37da8a66d33.png)
 ![](https://user-images.githubusercontent.com/65428925/120032672-eb7ef180-bfd0-11eb-9829-b902bcc2eeab.png) 1 b3 b7
 
-![](https://user-images.githubusercontent.com/65428925/120032674-ecb01e80-bfd0-11eb-9439-e8ea90a4998d.png) 1 b3 b7 b3 (b11)
+![](https://user-images.githubusercontent.com/65428925/120032674-ecb01e80-bfd0-11eb-9439-e8ea90a4998d.png) 1 b3 b7 b3
 
+### Mi9
+![](https://user-images.githubusercontent.com/65428925/120033555-19b10100-bfd2-11eb-927c-fbb00d56e8fb.png)
+![](https://user-images.githubusercontent.com/65428925/120033558-1a499780-bfd2-11eb-942d-7ff93e01f53d.png)
+![](https://user-images.githubusercontent.com/65428925/120033563-1b7ac480-bfd2-11eb-8091-5fb6be938e76.png)
+![](https://user-images.githubusercontent.com/65428925/120033569-1c135b00-bfd2-11eb-8d7b-67b0598de692.png)
 
+### Mi11
 
-
-
+![](https://user-images.githubusercontent.com/65428925/120034027-d3a86d00-bfd2-11eb-8c20-0f78e6120131.png)
+![](https://user-images.githubusercontent.com/65428925/120034033-d4410380-bfd2-11eb-804f-ab75f4a1b098.png)
+![](https://user-images.githubusercontent.com/65428925/120034035-d4d99a00-bfd2-11eb-8b9c-c8bd9ab5c323.png)
+![](https://user-images.githubusercontent.com/65428925/120034036-d5723080-bfd2-11eb-937b-cbfa66dfb9cf.png)
 
 
 
