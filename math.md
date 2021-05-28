@@ -119,6 +119,23 @@ Broken Voicing
 ![](https://user-images.githubusercontent.com/65428925/120032271-524fdb00-bfd0-11eb-988e-8839c9bc4fa2.png)
 ![](https://user-images.githubusercontent.com/65428925/120032273-52e87180-bfd0-11eb-8a77-029628f6002d.png)
 
+# Mi7
+![](https://user-images.githubusercontent.com/65428925/120032630-d99d4e80-bfd0-11eb-8078-ca7eda973c82.png)
+
+![](https://user-images.githubusercontent.com/65428925/120032669-eae65b00-bfd0-11eb-86da-41b2510fc9b0.png) 1 5 b7
+
+![](https://user-images.githubusercontent.com/65428925/120033020-69db9380-bfd1-11eb-829a-c60a778cfd22.png)
+![](https://user-images.githubusercontent.com/65428925/120032892-3ef13f80-bfd1-11eb-98af-d37da8a66d33.png)
+![](https://user-images.githubusercontent.com/65428925/120032672-eb7ef180-bfd0-11eb-9829-b902bcc2eeab.png) 1 b3 b7
+
+![](https://user-images.githubusercontent.com/65428925/120032674-ecb01e80-bfd0-11eb-9439-e8ea90a4998d.png) 1 b3 b7 b3 (b11)
+
+
+
+
+
+
+
 
 
 
