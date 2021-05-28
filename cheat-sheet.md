@@ -65,6 +65,19 @@ Major
 6. iv Minor 9
 7. viio None (mi7b5)
 
+# Chords
+## General pourpose shapes
+sources: https://www.youtube.com/watch?v=8E-Ajb7ABdE , 
+### Ma7
+ E string
+![](https://user-images.githubusercontent.com/65428925/120029892-19623700-bfcd-11eb-8e0d-6a6d60d5d71f.png)
+A string
+
+![](https://user-images.githubusercontent.com/65428925/120030129-7100a280-bfcd-11eb-8c47-9dcf04cb01a7.png)
+![](https://user-images.githubusercontent.com/65428925/120030138-7362fc80-bfcd-11eb-8ec4-5518529e831f.png)
+
+
+###
 
 ## Fancy power chords
 ### Octave Power chord
