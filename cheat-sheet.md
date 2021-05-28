@@ -69,12 +69,31 @@ Major
 ## General pourpose shapes
 sources: https://www.youtube.com/watch?v=8E-Ajb7ABdE , 
 ### Ma7
- E string
+E string
+
 ![](https://user-images.githubusercontent.com/65428925/120029892-19623700-bfcd-11eb-8e0d-6a6d60d5d71f.png)
+
 A string
 
 ![](https://user-images.githubusercontent.com/65428925/120030129-7100a280-bfcd-11eb-8c47-9dcf04cb01a7.png)
 ![](https://user-images.githubusercontent.com/65428925/120030138-7362fc80-bfcd-11eb-8ec4-5518529e831f.png)
+
+D string
+![](https://user-images.githubusercontent.com/65428925/120030314-ac02d600-bfcd-11eb-9a13-329cb385cafd.png)
+![](https://user-images.githubusercontent.com/65428925/120030266-a1484100-bfcd-11eb-95ab-ac882ad1de44.png)
+
+Broken Voicing
+
+1 5 7
+
+![](https://user-images.githubusercontent.com/65428925/120030441-dce30b00-bfcd-11eb-933a-376756adaff0.png)
+![](https://user-images.githubusercontent.com/65428925/120030596-0c921300-bfce-11eb-92b8-0922ee85929d.png)
+
+1 3 7
+
+![](https://user-images.githubusercontent.com/65428925/120030511-f3896200-bfcd-11eb-9c70-7b8be5a47b6e.png) 1 3 7
+
+![](https://user-images.githubusercontent.com/65428925/120030704-2df2ff00-bfce-11eb-9a13-aaee3083ab74.png)
 
 
 ###
