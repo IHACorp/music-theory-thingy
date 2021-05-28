@@ -1,5 +1,29 @@
-
 # jazzy emo math Harmony
+
+- [jazzy emo math Harmony](#jazzy-emo-math-harmony)
+  - [Diatonic sus](#diatonic-sus)
+  - [Neopolitan (N6)](#neopolitan-n6)
+  - [9 stuff](#9-stuff)
+    - [Diatonic 9th](#diatonic-9th)
+  - [11 stuff](#11-stuff)
+    - [diatonic 11th](#diatonic-11th)
+- [Chords](#chords)
+  - [Sus2](#sus2)
+  - [Sus4](#sus4)
+  - [Ma7](#ma7)
+  - [Ma9](#ma9)
+  - [Ma6](#ma6)
+  - [69](#69)
+  - [Add9](#add9)
+  - [Mi7](#mi7)
+  - [Mi9](#mi9)
+  - [Mi11](#mi11)
+  - [Misc](#misc)
+    - [13: 1 b7 3 6 ( 1 b7 11 13)](#13-1-b7-3-6--1-b7-11-13)
+  - [Octave Power chord](#octave-power-chord)
+- [Altcodes](#altcodes)
+- [Free](#free)
+
 ## Diatonic sus
 Major
 1. I sus2, sus4
