@@ -69,17 +69,9 @@ Major
 ## General pourpose shapes
 sources: https://www.youtube.com/watch?v=8E-Ajb7ABdE , 
 ### Ma7
-E string
-
 ![](https://user-images.githubusercontent.com/65428925/120029892-19623700-bfcd-11eb-8e0d-6a6d60d5d71f.png)
-
-A string
-
 ![](https://user-images.githubusercontent.com/65428925/120030129-7100a280-bfcd-11eb-8c47-9dcf04cb01a7.png)
 ![](https://user-images.githubusercontent.com/65428925/120030138-7362fc80-bfcd-11eb-8ec4-5518529e831f.png)
-
-D string
-
 ![](https://user-images.githubusercontent.com/65428925/120030314-ac02d600-bfcd-11eb-9a13-329cb385cafd.png)
 ![](https://user-images.githubusercontent.com/65428925/120030266-a1484100-bfcd-11eb-95ab-ac882ad1de44.png)
 
@@ -89,11 +81,46 @@ Broken Voicing
 
 ![](https://user-images.githubusercontent.com/65428925/120030441-dce30b00-bfcd-11eb-933a-376756adaff0.png)
 ![](https://user-images.githubusercontent.com/65428925/120030596-0c921300-bfce-11eb-92b8-0922ee85929d.png)
+![](https://user-images.githubusercontent.com/65428925/120031065-a48ffc80-bfce-11eb-976f-ec1f345c21cb.png)
 
 1 3 7
 
 ![](https://user-images.githubusercontent.com/65428925/120030511-f3896200-bfcd-11eb-9c70-7b8be5a47b6e.png)
 ![](https://user-images.githubusercontent.com/65428925/120030704-2df2ff00-bfce-11eb-9a13-aaee3083ab74.png)
+
+### Ma9
+![](https://user-images.githubusercontent.com/65428925/120031272-f9cc0e00-bfce-11eb-9ceb-381513fcc8be.png)
+![](https://user-images.githubusercontent.com/65428925/120031295-0486a300-bfcf-11eb-9912-0f4d699c48b6.png)
+![](https://user-images.githubusercontent.com/65428925/120031332-0ea8a180-bfcf-11eb-8d4f-21d37cea375a.png)
+![](https://user-images.githubusercontent.com/65428925/120031370-18caa000-bfcf-11eb-909a-4217980b7b63.png)
+![](https://user-images.githubusercontent.com/65428925/120031593-621aef80-bfcf-11eb-96d0-9e00368b5f76.png)
+![](https://user-images.githubusercontent.com/65428925/120031606-6515e000-bfcf-11eb-9b6f-ddfe8c339096.png)
+
+5th in the bass
+
+![](https://user-images.githubusercontent.com/65428925/120031435-30a22400-bfcf-11eb-90d2-f35acec7bd00.png)
+
+### Ma6
+![](https://user-images.githubusercontent.com/65428925/120031857-c2119600-bfcf-11eb-9d62-b871d2fd70f6.png)
+![](https://user-images.githubusercontent.com/65428925/120031863-c342c300-bfcf-11eb-8459-8c738d04865d.png)
+![](https://user-images.githubusercontent.com/65428925/120031867-c473f000-bfcf-11eb-8348-553c6cce808c.png)
+![](https://user-images.githubusercontent.com/65428925/120031872-c5a51d00-bfcf-11eb-9bd7-5b5a56da5220.png)
+
+### 69 
+![](https://user-images.githubusercontent.com/65428925/120032080-0f8e0300-bfd0-11eb-8e08-44825df800f2.png)
+![](https://user-images.githubusercontent.com/65428925/120032083-10bf3000-bfd0-11eb-882a-a96aab00fda1.png)
+![](https://user-images.githubusercontent.com/65428925/120032086-1157c680-bfd0-11eb-8a28-22a6c68fa5e0.png)
+![](https://user-images.githubusercontent.com/65428925/120032089-1288f380-bfd0-11eb-905b-119d1f56b305.png)
+![](https://user-images.githubusercontent.com/65428925/120032092-13218a00-bfd0-11eb-93ac-f6d9e60965ae.png)
+![](https://user-images.githubusercontent.com/65428925/120032097-13ba2080-bfd0-11eb-8bb5-13f7d7ce028c.png)
+
+### Add9
+![](https://user-images.githubusercontent.com/65428925/120032269-50861780-bfd0-11eb-9938-7a4729c8c888.png)
+![](https://user-images.githubusercontent.com/65428925/120032271-524fdb00-bfd0-11eb-988e-8839c9bc4fa2.png)
+![](https://user-images.githubusercontent.com/65428925/120032273-52e87180-bfd0-11eb-8a77-029628f6002d.png)
+
+
+
 
 ## Fancy power chords
 ### Octave Power chord
