@@ -121,12 +121,16 @@ Major  1   2   3   4   5   6   7   8
 
 ## Minor
 ```
-Natural   1   2  b3   4   5  b6  b7   8
-          | W | h | W | W | h | W | W |
-Melodic   1   2  b3   4   5  b6  b7   8
-          | W | h | W | W | h | W | W |
-Harmonic  1   2  b3   4   5  b6  b7   8
-          | W | h | W | W | h | W | W |
+Natural      1   2  b3   4   5  b6  b7   8
+             | W | h | W | W | h | W | W |
+
+Harmonic     1   2  b3   4   5  b6   7   8
+             | W | h | W | W | h | Wh| h |
+
+Melodic Up   1   2  b3   4   5   6   7   8
+             | W | h | W | W | W | W | h |
+
+Melodic Down = Natural
 ```
 
 
