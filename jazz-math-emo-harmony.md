@@ -250,6 +250,7 @@ https://altcodeunicode.com/alt-codes-musical-note-instrument-symbols/
 
 # Free
 - Lots of cool voicings on guitar: [jazz-guitar-licks](https://www.jazz-guitar-licks.com/)
+- [jazz theory](https://www.thejazzpianosite.com/jazz-piano-lessons/)
 - [jazclass](http://www.jazclass.aust.com)
   - [jazz theory](http://www.jazclass.aust.com/lessons/jt/1jt.htm)
   - [blues theory](http://www.jazclass.aust.com/blues4u/blues/default.htm)
