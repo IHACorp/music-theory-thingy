@@ -7,6 +7,8 @@
     - [Diatonic 9th](#diatonic-9th)
   - [11 stuff](#11-stuff)
     - [diatonic 11th](#diatonic-11th)
+- [Scales](#scales)
+  - [Minor](#minor)
 - [Chords](#chords)
   - [Sus2](#sus2)
   - [Sus4](#sus4)
@@ -99,6 +101,33 @@ Major
 5. V Dominant 
 6. iv Minor 11
 7. viio None
+
+# Scales
+## Major and Modes
+```
+Major  1   2   3   4   5   6   7   8
+       | W | W | h | W | W | W | h |
+```
+![](https://user-images.githubusercontent.com/65428925/121211576-fa786600-c852-11eb-8288-0928db666789.png)
+| Num | Name  | Intervals | 
+|---|---|---|
+| I | Ionian Maj | 1 2 3 4 5 6 7 | 
+| ii | Dorian	| 1 2 b3 4 5 6 b7	| 
+| iii | Phrygian	| 1 b2 b3 4 5 b6 b7 | 
+| IV | Lydian	| 1 2 3 #4 5 6 7 | 
+| V | Mixolydian	| 1 2 3 4 5 6 b7 | 
+| vi | Aeolian NatMin	| 1 2 b3 4 5 b6 b7 | 
+| vii | Locrian	| 1 b2 b3 4 b5 b6 b7 | 
+
+## Minor
+```
+Natural 1   2  b3   4   5  b6  b7   8
+        | W | h | W | W | h | W | W |
+Melodic 1   2  b3   4   5  b6  b7   8
+        | W | h | W | W | h | W | W |
+Harmonic 1   2  b3   4   5  b6  b7   8
+         | W | h | W | W | h | W | W |
+```
 
 
 # Chords
