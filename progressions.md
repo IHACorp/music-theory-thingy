@@ -9,6 +9,5 @@
 | Sounds | Quality |
 | :------------- | -----------: |
 | V/VI IV |  resolved |
-| N6 Vsus V I | N6 prep dom    | 
-|             | I or i         |
+| N6 Vsus V (I or i) | N6 prep dom    | 
 | Vsus V I | Vsus cadence |
