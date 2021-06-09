@@ -85,7 +85,7 @@ o   dim   mb5   |  Dim Triad     |  1   b3   b5
 o7  dim7  m6b5  |  Dim 7th       |  1   b3   b5   bb7 (enharmonical to natural 6)
 ```
 
-## Diminished Key Change 
+### Diminished Key Change 
 
 
 # Scales
