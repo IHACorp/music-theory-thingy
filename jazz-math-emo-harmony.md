@@ -1,4 +1,5 @@
 # jazzy emo math Harmony
+
 ## Diatonic sus
 Major
 1. I sus2, sus4
@@ -14,6 +15,7 @@ Major
 - sus4: 1 4 5 
 
 > Vsus = Vsus2 or Vsus4 works, if there is any, it is my personal preference
+
 - Pulling back to major: Isus4 - I - Isus2 - I
 - Cadence before the V : Vsus - V - I 
 - N6 preparing for dom : N6 - Vsus4 - V - I
@@ -54,6 +56,7 @@ minor 6/9     - Cm69  -  1  b3  5   6   9  - Substitues the minor tonic
                   4th 4th
 ```
 Adam neely on 69 chords and quartal voicing them(2:45): https://youtu.be/2IEN65JQW1E?t=56 
+
 ### Diatonic 9th
 Major
 1. I Major 9
@@ -75,13 +78,22 @@ Major
 6. iv Minor 11
 7. viio None
 
+## Dim
+```
+o   dim   mb5   |  Dim Triad     |  1   b3   b5
+ø7   ø    m7b5  |  Half Dim 7th  |  1   b3   b5    b7
+o7  dim7  m6b5  |  Dim 7th       |  1   b3   b5   bb7 (enharmonical to natural 6)
+```
+
 # Scales
 ## Major and Modes
 ```
 Major  1   2   3   4   5   6   7   8
        | W | W | h | W | W | W | h |
 ```
+
 ![](https://user-images.githubusercontent.com/65428925/121211576-fa786600-c852-11eb-8288-0928db666789.png)
+
 | Num | Name  | Intervals | 
 |---|---|---|
 | I | Ionian Maj | 1 2 3 4 5 6 7 | 
