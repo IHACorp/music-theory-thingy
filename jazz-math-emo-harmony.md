@@ -237,6 +237,10 @@ Just the root and the octave, really good for fiddling around and composing... O
 good simple idea you start adding the fancy stuff
 
 ![](https://user-images.githubusercontent.com/65428925/118488417-16746600-b6f2-11eb-884d-0116802fa0a7.png)
+### Barre chords
+![image](https://user-images.githubusercontent.com/65428925/121350337-eb4ff180-c900-11eb-9465-b3c300cbada9.png)
+![image](https://user-images.githubusercontent.com/65428925/121350351-ef7c0f00-c900-11eb-9a99-787226a4002c.png)
+
 
 # Altcodes
 https://altcodeunicode.com/alt-codes-musical-note-instrument-symbols/
