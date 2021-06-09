@@ -1,7 +1,9 @@
 | Tips | Quickly recognise context |
 | :------------- | -----------: |
-| Cmaj7 Cmin7| whole step 251 |
+| Cmaj7 Cm7| whole step 251 |
 | C7 Cmin7 | V7/V7|
+| Cmaj7 C#m7| half step 251 |
+
 
 | 251 | Patterns |
 | :------------- | -----------: |
@@ -17,7 +19,10 @@
 |||
 |  `Am7 D7` `Dm7 G7` `Gm7 C7` `Cm7 F7` | V7\V7  |
 |||
-
+|`Dm7 G7 Cmaj7` `C#m7 F#7 Bmaj7` `Cm7 F7 Bbmaj7` | half step 251 |
+|||
+| `Bbm7 Eb7`Ab `Am7 D7`G `Abm7 Dd7`Gb | half step 25 |
+|||
 
 | 251esque | Progressions |
 | :------------- | -----------: |
