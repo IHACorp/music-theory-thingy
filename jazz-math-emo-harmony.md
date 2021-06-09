@@ -97,15 +97,15 @@ Major  1   2   3   4   5   6   7   8
 
 ![](https://user-images.githubusercontent.com/65428925/121211576-fa786600-c852-11eb-8288-0928db666789.png)
 
-| Num | Name  | Intervals | 
-|---|---|---|
-| I | Ionian Maj | 1 2 3 4 5 6 7 | 
-| ii | Dorian	| 1 2 b3 4 5 6 b7	| 
-| iii | Phrygian	| 1 b2 b3 4 5 b6 b7 | 
-| IV | Lydian	| 1 2 3 #4 5 6 7 | 
-| V | Mixolydian	| 1 2 3 4 5 6 b7 | 
-| vi | Aeolian NatMin	| 1 2 b3 4 5 b6 b7 | 
-| vii | Locrian	| 1 b2 b3 4 b5 b6 b7 | 
+```
+I    Ionian Maj      1   2   3   4   5   6    7  
+ii   Dorian	         1   2  b3   4   5   6   b7	 
+iii  Phrygian	       1  b2  b3   4   5  b6   b7  
+IV   Lydian	         1   2   3  #4   5   6    7  
+V    Mixolydian	     1   2   3   4   5   6   b7  
+vi   Aeolian NatMin	 1   2  b3   4   5  b6   b7  
+vii  Locrian	       1  b2  b3   4  b5  b6   b7  
+```
 
 ## Minor
 ```
