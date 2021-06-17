@@ -96,10 +96,12 @@ Broken Voicing
 ### 13: 1 b7 3 6 ( 1 b7 11 13)
 ![](https://user-images.githubusercontent.com/65428925/120035799-85e13400-bfd5-11eb-962e-6d643c790f94.png) 
 
-# B6add(10, #11, b14)
-![](https://user-images.githubusercontent.com/65428925/122410743-92183b80-cf5a-11eb-82c9-ca91c6682ee6.png)
+### B6add(10, #11, b14)
+![](https://user-images.githubusercontent.com/65428925/122410978-c55aca80-cf5a-11eb-8470-97edc6624f03.png)
 
-[chorpic](https://chordpic.com/chord/N4IgxgFg9gTgJiAXKAZgSwHYHMCmMDOSA2kQCwA0ATOaAC44AetSIAbCOSPhAIYAOOFvgCOAVx4xBAXwC65IgGYqNLrwFCxE6XKLVqdRs0QgAxKQ6r+g4yPGSQs+QEZlBpiwBGAdgvcrGu215VnIlNyMQJwcdJQpwlgVo+QBWclT442TouRAPCUlCRCIZKU58HFpaTCxC0HxaAE8AG2sQDFgAWx4m31oYasKQkBRJWkLUkD4ofDQqqAwkCYxRWgBlNAAvaycAOgAGCaraFoAxebXN61IADk4wKCbYFhM9196YKABrHAB1NDhaBAkEphqN1lskLshnkwJ8sB9RBg4ABhB5PYwwLB5AAUTlIFAABE4AJzkAmUZKEvY7SisACUFnQDBwcAAImgePCeB0AArTWZoeZIPqiHCcWiI6rESIWLKcdicJx7AkWExOKKcDx4kA5I4tFgAIVYPDgcFxezJapcBK1pAZUikQA)
+
+[chordpic](https://chordpic.com/chord/N4IgxgFg9gTgJiAXKAZgSwHYHMCmMDOSA2kQCwA0ATOaAC44AetSIAbCOSPhAIYAOOFvgCOAVx4xBAXwC65IgGYqNLrwFCxE6XKLVqdRs0QgAxKQ6r+g4yPGSQs+QEZlBpiwBGAdgvcrGu215VnIlNyMQJwcdJQpwlgVo+QBWclT442TouRAPCUlCRCIZKU58HFpaTCxC0HxaAE8AG2sQDFgAWx4m31oYasKQkBRJWkLUkD4ofDQqqAwkCYxRWgBlNAAvaycAOgAGCaraFoAxebXN61IADk4wKCbYFhM9196YKABrHAB1NDhaBAkEphqN1lskLshnkwJ8sB9RBg4ABhB5PYwwLB5AAUlAUe3IAAJKE4CcTSF4iU4AJQWdAMHBwAAiaB48J4HQACtNZmh5kg+qIcJxaIjqsRIhYspx2JxSYSLCYnFFOB4nOYckcWiwAEKsHhwODY0lEpUuQlq0i0qRSIA)
+
 ## Octave Power chord
 Just the root and the octave, really good for fiddling around and composing... Only when you get a 
 good simple idea you start adding the fancy stuff
