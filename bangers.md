@@ -3,6 +3,9 @@
 - [Patricia Taxxon - Sapphire Apts](https://www.youtube.com/watch?v=yG8t_oLJPpM)
 - Everything trust fund Ozu 
 
+# Vibey Guitar
+- [Stone Rebel - Space Arc Collection](https://www.youtube.com/watch?v=ocUT2NCGlRI)
+
 # Spectralism
 - [Tristan Murail Désintégrations with Sonic Visualizer](https://www.youtube.com/watch?v=4basuUUatf8)
 
