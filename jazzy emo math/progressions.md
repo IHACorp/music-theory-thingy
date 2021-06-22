@@ -26,16 +26,18 @@
 
 | 251esque | Progressions |
 | :------------- | -----------: |
-| iim7b5/V V/V ii V I | half dim + sec dom |
+| `iim7b5/ii V/ii` `ii V` `I` | half dim + sec dom |
 
-| Progression | Quality |
+| Progressions to change | Quality | Ideas |
 | :------------- | -----------: |
-| Imaj7 bII9 VI9 IV9 | lofi |
-| Isus4 I Isus2 I | beatles vibes |
+| `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi |
+| `Isus4` `I` `Isus2` `I` | beatles vibes |
+| `I` `vi` `IV` `V` | Doo wop | `I` `vi` `bVI` `V` |
 
 
-| Sounds | Quality |
+
+| Weird Sounds | Quality |
 | :------------- | -----------: |
-| V/VI IV | resolved |
-| N6 Vsus V (I or i) | N6 prep dom    | 
-| Vsus V I | Vsus cadence |
+| `V/VI` `IV` | resolved |
+| `N6` `Vsus` `V` `(I or i)` | N6 prep dom    | 
+| `Vsus` `V` `I` | Vsus cadence |
