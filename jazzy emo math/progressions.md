@@ -56,3 +56,7 @@ Circle progressions
 ![](https://user-images.githubusercontent.com/65428925/123689667-ddb7c880-d829-11eb-8ae7-c2b14b8805fe.png)
 
 ![](https://user-images.githubusercontent.com/65428925/123689671-de505f00-d829-11eb-9620-f1b2f1880cfd.png)
+
+
+![](https://user-images.githubusercontent.com/65428925/123689996-41da8c80-d82a-11eb-8978-72a7dab0d5ad.png)
+![](https://user-images.githubusercontent.com/65428925/123690000-42732300-d82a-11eb-8d1c-702950c9ae47.png)
