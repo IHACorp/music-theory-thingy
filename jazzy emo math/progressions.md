@@ -1,3 +1,5 @@
+# 251
+
 | Tips | Quickly recognise context |
 | :------------- | -----------: |
 | Cmaj7 Cm7| whole step 251 |
@@ -28,6 +30,9 @@
 | :------------- | -----------: |
 | `iim7b5/ii V/ii` `ii V` `I` | half dim + sec dom |
 
+
+# Storage
+
 | Progressions to change | Quality | Ideas |
 | :------------- | --- | -----------: |
 | `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi | |
@@ -39,6 +44,8 @@
 | `V/VI` `IV` | resolved |
 | `N6` `Vsus` `V` `(I or i)` | N6 prep dom    | 
 
+# Cadences
+
 | Cadences (phrase end) | Quality |
 | :------------- | -----------: |
 | obs: | `Ii` == `I or i` |
@@ -46,20 +53,21 @@
 | `IV` `Ii`  | Plagal |
 | `any` `V` | Half |
 | `V` `NOT!!! Ii` (ex: V VI) | deceptive |
+| `I64` `V` `I` (ex: `I` `VI` `I64` `V` `I`) | cadential-64 (I in second inv becomes pre-dom) |
 | descending and looping around: `i` `VII` `VI` `V` |Andalusian Minor|
 | descending and looping around: `iv` `III` `II` `I` |Andalusian Phrygian|
 | descending and looping around:  `i` `bVII`  `bVI` `iv` |Andalusian Confortably numb|
 | `Vsus` `V` `Ii` | Vsus cadence |
 
-Circle progressions
+# Circle progressions
 
 ![](https://user-images.githubusercontent.com/65428925/123689667-ddb7c880-d829-11eb-8ae7-c2b14b8805fe.png)
 
 ![](https://user-images.githubusercontent.com/65428925/123689671-de505f00-d829-11eb-9620-f1b2f1880cfd.png)
 
 maj
+![](https://user-images.githubusercontent.com/65428925/123691580-2d978f00-d82c-11eb-961c-10a225f7ddff.png)
 
-![](https://user-images.githubusercontent.com/65428925/123689996-41da8c80-d82a-11eb-8978-72a7dab0d5ad.png)
 
 min
 ![](https://user-images.githubusercontent.com/65428925/123690000-42732300-d82a-11eb-8d1c-702950c9ae47.png)
