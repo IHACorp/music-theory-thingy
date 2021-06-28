@@ -5,8 +5,11 @@ Maj7                  1    3    5     7
 min7                  1   b3    5    b7
 mM7 (minor major)     1   b3    5     7
 7 (dom7)              1    3    5    b7
+7b5 (dom7 flat5)      1    3   b5    b7 only 6 (== 2nd inv)
 m7b5 (Half Dim 7th)   1   b3   b5    b7
 dim7                  1   b3   b5   bb7
++M7 (aug maj 7th)     1    3   #5     7
++7 (aug 7th)          1    3   #5    b7 
 ```
 [image source](https://www.musictheory.net/lessons/48)
 ![](https://user-images.githubusercontent.com/65428925/123682565-87df2280-d821-11eb-8cad-7df049f3d9aa.png)
