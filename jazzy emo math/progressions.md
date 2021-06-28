@@ -34,8 +34,6 @@
 | `Isus4` `I` `Isus2` `I` | beatles vibes | |
 | `I` `vi` `IV` `V` | Doo wop | `I` `vi` `bVI` `V` |
 
-
-
 | Weird Sounds | Quality |
 | :------------- | -----------: |
 | `V/VI` `IV` | resolved |
@@ -53,3 +51,8 @@
 | descending and looping around:  `i` `bVII`  `bVI` `iv` |Andalusian Confortably numb|
 | `Vsus` `V` `Ii` | Vsus cadence |
 
+Circle progressions
+
+![](https://user-images.githubusercontent.com/65428925/123689667-ddb7c880-d829-11eb-8ae7-c2b14b8805fe.png)
+
+![](https://user-images.githubusercontent.com/65428925/123689671-de505f00-d829-11eb-9620-f1b2f1880cfd.png)
