@@ -40,4 +40,16 @@
 | :------------- | -----------: |
 | `V/VI` `IV` | resolved |
 | `N6` `Vsus` `V` `(I or i)` | N6 prep dom    | 
-| `Vsus` `V` `I` | Vsus cadence |
+
+| Cadences (phrase end) | Quality |
+| :------------- | -----------: |
+| obs: | `Ii` == `I or i` |
+| `V` `Ii` | Perfect* |
+| `IV` `Ii`  | Plagal |
+| `any` `V` | Half |
+| `V` `NOT!!! Ii` (ex: V VI) | deceptive |
+| descending and looping around: `i` `VII` `VI` `V` |Andalusian Minor|
+| descending and looping around: `iv` `III` `II` `I` |Andalusian Phrygian|
+| descending and looping around:  `i` `bVII`  `bVI` `iv` |Andalusian Confortably numb|
+| `Vsus` `V` `Ii` | Vsus cadence |
+```
