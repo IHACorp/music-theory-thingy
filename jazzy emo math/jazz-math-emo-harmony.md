@@ -14,6 +14,10 @@ dim7                  1   b3   b5   bb7
 [image source](https://www.musictheory.net/lessons/48)
 ![](https://user-images.githubusercontent.com/65428925/123682565-87df2280-d821-11eb-8cad-7df049f3d9aa.png)
 
+### Inversions
+![Screenshot from 2021-06-28 15-31-57](https://user-images.githubusercontent.com/65428925/123686314-0e95fe80-d826-11eb-8d62-2857211a6642.png)
+
+
 ## Diatonic sus
 Major
 1. I sus2, sus4
@@ -140,6 +144,11 @@ Natural
 
 Harmonic
 ![](https://user-images.githubusercontent.com/65428925/123685739-63854500-d825-11eb-9a0e-fb7e915c253d.png)
+
+![](https://user-images.githubusercontent.com/65428925/123686386-21a8ce80-d826-11eb-9252-465737abd507.png)
+
+
+
 
 Melodic
 ![](https://user-images.githubusercontent.com/65428925/123685746-65e79f00-d825-11eb-9540-ce3ef748d1f0.png)
