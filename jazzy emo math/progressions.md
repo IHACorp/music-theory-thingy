@@ -29,9 +29,9 @@
 | `iim7b5/ii V/ii` `ii V` `I` | half dim + sec dom |
 
 | Progressions to change | Quality | Ideas |
-| :------------- | -----------: |
-| `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi |
-| `Isus4` `I` `Isus2` `I` | beatles vibes |
+| :------------- | --- | -----------: |
+| `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi | |
+| `Isus4` `I` `Isus2` `I` | beatles vibes | |
 | `I` `vi` `IV` `V` | Doo wop | `I` `vi` `bVI` `V` |
 
 
