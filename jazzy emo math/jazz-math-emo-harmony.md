@@ -134,6 +134,20 @@ Melodic Up   1   2  b3   4   5   6   7   8
 
 Melodic Down = Natural
 ```
+### Diatonic Harmony 
+Natural
+![](https://user-images.githubusercontent.com/65428925/123685725-5f592780-d825-11eb-8e96-8a9f330ace0f.png)
+
+Harmonic
+![](https://user-images.githubusercontent.com/65428925/123685739-63854500-d825-11eb-9a0e-fb7e915c253d.png)
+
+Melodic
+![](https://user-images.githubusercontent.com/65428925/123685746-65e79f00-d825-11eb-9540-ce3ef748d1f0.png)
+
+[Combined Nat e har](https://www.musictheory.net/lessons/50)
+
+![](https://user-images.githubusercontent.com/65428925/123684796-4ac85f80-d824-11eb-9d9d-44df0500ac11.png)
+
 
 # Altcodes
 https://altcodeunicode.com/alt-codes-musical-note-instrument-symbols/
