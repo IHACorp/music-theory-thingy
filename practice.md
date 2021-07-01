@@ -4,6 +4,12 @@
 
 ![](https://user-images.githubusercontent.com/65428925/122922438-ff044a80-d339-11eb-9a34-cedec6417539.png)
 
+## Chords Shapes
+https://www.youtube.com/watch?v=LFXZzNQ3eAo&list=PLIuyaIoM30LKVti-wLWnrlSwaFMJ4cC2J
+
+![](https://user-images.githubusercontent.com/65428925/124181499-f1fb0000-da8b-11eb-8529-88e632a7d0ea.png)
+
+
 # Bass
 ## Pentatonic
 ![](https://user-images.githubusercontent.com/65428925/124178245-b9f1be00-da87-11eb-800f-5c9bc1313682.png)
