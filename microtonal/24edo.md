@@ -16,9 +16,6 @@ G#         A#
 ### Triads
 | Name | | | |
 | --- | --- | --- | --- |
-| | | | |
-| | | Change | |
-| | | | |
 | sus 4#+ / Super Lydian? | 1 | 4#+ | 5 |
 | sus 4# / Lydian | 1  | 4# | 5 |
 | sus 4+ | 1 | 4+ | 5 |
@@ -34,13 +31,11 @@ G#         A#
 | sus 2b / Minor 2 | 1 | 2b | 5 |
 | sus 2bd / Super Minor 2 | 1 | 2bd | 5 |
 | | | | |
-| | | | Change |
 | Half Aug | 1 | 3 | 5+ |
 | Aug | 1 | 3 | 5# |
 | Super Aug | 1 | 3 | 5#+ |
-| | | | |
-| | | | |
-| | | | |
+
+
 
 ### Tritone to P5
 https://youtu.be/bWG6CGKMnNA?t=106
