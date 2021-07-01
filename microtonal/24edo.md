@@ -25,7 +25,7 @@ G#         A#
 | Major | 1 | 3 | 5 | M Maj|
 | Neutral | 1 | 3d |  5 | N |
 | Minor | 1 | 3b | 5 | m min|
-| Super Minor / sus 2+ | 1 | 3db / 2+ | 5 | Sm Smin |
+| Super Minor / sus 2+ | 1 | 3bd / 2+ | 5 | Sm Smin |
 | sus 2 / Major 2 | 1 | 2 | 5 |
 | sus 2d / Neutral 2 | 1 | 2d | 5 |
 | sus 2b / Minor 2 | 1 | 2b | 5 |
