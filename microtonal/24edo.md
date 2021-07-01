@@ -14,18 +14,18 @@ G#         A#
 ```
 ## Harmony
 ### Triads
-| Name | | | | Symbol |
-| --- | --- | --- | --- | --- |
+| Name | | | | Symbol | Tune |
+| --- | --- | --- | --- | --- | --- |
 | sus 4#+ / Super Lydian? | 1 | 4#+ | 5 |
 | sus 4# / Lydian | 1  | 4# | 5 |
 | sus 4+ | 1 | 4+ | 5 |
 | sus 4 | 1 | 4 | 5 |
 | sus 4d | 1 | 4d | 5 |
-| Super Major | 1 | 3+ | 5 | SM SMaj |
-| Major | 1 | 3 | 5 | M Maj|
-| Neutral | 1 | 3d |  5 | N |
-| Minor | 1 | 3b | 5 | m min|
-| Super Minor / sus 2+ | 1 | 3bd / 2+ | 5 | Sm Smin |
+| Super Major | 1 | 3+ | 5 | SM SMaj | ✅ |
+| Major | 1 | 3 | 5 | M Maj| 💤 |
+| Neutral | 1 | 3d |  5 | N | ❌ |
+| Minor | 1 | 3b | 5 | m min | 💤 |
+| Super Minor / sus 2+ | 1 | 3bd / 2+ | 5 | Sm Smin | ✅ |
 | sus 2 / Major 2 | 1 | 2 | 5 |
 | sus 2d / Neutral 2 | 1 | 2d | 5 |
 | sus 2b / Minor 2 | 1 | 2b | 5 |
