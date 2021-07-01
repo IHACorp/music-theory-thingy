@@ -36,7 +36,7 @@ G#         A#
 | Super Aug | 1 | 3 | 5#+ | Saug |
 | | | | |
 | Example Combination | | | |
-| Super Major Super Aug | | | SM Haug |
+| Super Major Super Aug | 1 | 3+ | 5+ | SM Haug |
 
 
 
