@@ -34,7 +34,13 @@ G#         A#
 | sus 2b / Minor 2 | 1 | 2b | 5 |
 | sus 2bd / Super Minor 2 | 1 | 2bd | 5 |
 | | | | |
-
+| | | | Change |
+| Half Aug | 1 | 3 | 5+ |
+| Aug | 1 | 3 | 5# |
+| Super Aug | 1 | 3 | 5#+ |
+| | | | |
+| | | | |
+| | | | |
 
 ### Tritone to P5
 https://youtu.be/bWG6CGKMnNA?t=106
