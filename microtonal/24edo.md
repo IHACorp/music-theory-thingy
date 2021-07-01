@@ -4,8 +4,8 @@
 - [Patricia Taxxon ; How I Wrote a Microtonal Pop Song | Spiral Staircase](https://www.youtube.com/watch?v=rDkRfbACbzU)
 
 # Theory
+> **TO AVOID CONFUSION: "+" = half sharp, NOT aug!!!!**
 ```
-+ = half sharp, not aug
 db b d A  +   #   #+ 
 Enharm:   bd  b   d   B
 
@@ -14,26 +14,30 @@ G#         A#
 ```
 ## Harmony
 ### Triads
-| Name | | | |
-| --- | --- | --- | --- |
+| Name | | | | Symbol |
+| --- | --- | --- | --- | --- |
 | sus 4#+ / Super Lydian? | 1 | 4#+ | 5 |
 | sus 4# / Lydian | 1  | 4# | 5 |
 | sus 4+ | 1 | 4+ | 5 |
 | sus 4 | 1 | 4 | 5 |
 | sus 4d | 1 | 4d | 5 |
-| Super Major | 1 | 3+ | 5 |
-| Major | 1 | 3 | 5 |
-| Neutral | 1 | 3d |  5 |
-| Minor | 1 | 3b | 5 |
-| Super Minor / sus 2+ | 1 | 3db / 2+ | 5 |
+| Super Major | 1 | 3+ | 5 | SM SMaj |
+| Major | 1 | 3 | 5 | M Maj|
+| Neutral | 1 | 3d |  5 | N |
+| Minor | 1 | 3b | 5 | m min|
+| Super Minor / sus 2+ | 1 | 3db / 2+ | 5 | Sm Smin |
 | sus 2 / Major 2 | 1 | 2 | 5 |
 | sus 2d / Neutral 2 | 1 | 2d | 5 |
 | sus 2b / Minor 2 | 1 | 2b | 5 |
 | sus 2bd / Super Minor 2 | 1 | 2bd | 5 |
 | | | | |
-| Half Aug | 1 | 3 | 5+ |
-| Aug | 1 | 3 | 5# |
-| Super Aug | 1 | 3 | 5#+ |
+| Half Aug | 1 | 3 | 5+ | Haug |
+| Aug | 1 | 3 | 5# | aug |
+| Super Aug | 1 | 3 | 5#+ | Saug |
+| | | | |
+| Example Combination | | | |
+| Super Major Super Aug | | | SM Haug |
+
 
 
 
