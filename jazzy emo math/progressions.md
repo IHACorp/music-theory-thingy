@@ -33,11 +33,22 @@
 
 # Storage
 
-| Progressions to change | Quality | Ideas |
+| Doo Wop |
+| --- |
+| Basic: `I` `vi` `IV` `V` |
+| `I` `vi` `bVI` `V` |
+
+| Anime Intro | |
+| --- | --- |
+| Basic: (Major: `IV` `V` `vi` `%` ) (Minor: `bVI` `bVII` `i` `%`)|
+| `IV` `V` `vi` `I` | Major lift, maintain harmonic speed (no `%`)|
+| `IV` `V` `iii` `vi` | keep "minor" vibes and Harmonic Speed |
+|`IV` `V` `vi` `( III / iii / IIIdom7 )`||
+
+| Progs | Quality |
 | :------------- | --- | -----------: |
-| `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi | |
-| `Isus4` `I` `Isus2` `I` | beatles vibes | |
-| `I` `vi` `IV` `V` | Doo wop | `I` `vi` `bVI` `V` |
+| `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi |
+| `Isus4` `I` `Isus2` `I` | beatles vibes |
 
 | Weird Sounds | Quality |
 | :------------- | -----------: |
