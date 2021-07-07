@@ -53,6 +53,15 @@
 |||
 | `IV` `ivMinMaj7` `vi` `I` `iii` | mini line cliche |
 
+| Pop Stuff |
+| --- |
+| `I` `IV` `I` `V` |
+| `I` `vi` `ii` `V` `I` |
+| `I` `vi` `IV` `V` |
+| `I` `V` `vi` `IV` `I` |
+| `vi` `IV` `I` `V` |
+| `IV` `vi` `V` `I` |
+
 | Progs | Quality |
 | :------------- | --- | -----------: |
 | `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi |
