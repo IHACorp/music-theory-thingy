@@ -51,7 +51,7 @@
 |||
 | Similar Sound | But Diff Prog |
 |||
-| `IV` `ivMinMaj7` `vi` `I` `iii` ||
+| `IV` `ivMinMaj7` `vi` `I` `iii` | mini line cliche |
 
 | Progs | Quality |
 | :------------- | --- | -----------: |
