@@ -98,8 +98,7 @@
 | `I` `II` `I` `II` |
 
 # Circle progressions
-
-![](https://user-images.githubusercontent.com/65428925/123689667-ddb7c880-d829-11eb-8ae7-c2b14b8805fe.png)
+Root motion Up 4th or Down 5th
 
 ![](https://user-images.githubusercontent.com/65428925/123689671-de505f00-d829-11eb-9620-f1b2f1880cfd.png)
 
