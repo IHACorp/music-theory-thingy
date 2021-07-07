@@ -48,12 +48,17 @@
 | `IV` `V` `iii` `vi` | keep "minor" vibes and Harmonic Speed |
 | `IV` `V` `vi` `( III / iii / IIIdom7 )`||
 | Minor: `i` `bVII(1st)` `bIII` `V(1st)/iv`||
+|||
+| Similar Sound | But Diff Prog |
+|||
+| `IV` `ivMinMaj7` `vi` `I` `iii` ||
 
 | Progs | Quality |
 | :------------- | --- | -----------: |
 | `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi |
 | `Isus4` `I` `Isus2` `I` | beatles vibes |
 | `IV` `V` `I(1st)` `VI`| VI sounds thicc |
+| `i` `iv` `bVI` `viio7/bIII` `bIII` `viio7/bVI` `bVI` ||
 
 | Weird Sounds | Quality |
 | :------------- | -----------: |
