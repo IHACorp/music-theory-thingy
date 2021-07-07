@@ -91,6 +91,12 @@
 | descending and looping around:  `i` `bVII`  `bVI` `iv` |Andalusian Confortably numb|
 | `Vsus` `V` `Ii` | Vsus cadence |
 
+# Modal
+
+| Lydian |
+| --- |
+| `I` `II` `I` `II` |
+
 # Circle progressions
 
 ![](https://user-images.githubusercontent.com/65428925/123689667-ddb7c880-d829-11eb-8ae7-c2b14b8805fe.png)
