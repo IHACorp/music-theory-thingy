@@ -49,7 +49,7 @@
 | `IV` `V` `vi` `( III / iii / IIIdom7 )`||
 | Minor: `i` `bVII(1st)` `bIII` `V(1st)/iv`||
 |||
-| Similar Sound | But Diff Prog |
+| Similar Sound But Diff Prog ||
 |||
 | `IV` `ivMinMaj7` `vi` `I` `iii` | mini line cliche |
 
