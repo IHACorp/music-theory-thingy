@@ -53,7 +53,7 @@
 |||
 | `IV` `ivMinMaj7` `vi` `I` `iii` | mini line cliche |
 
-| Pop Stuff |
+| Pop |
 | --- |
 | `I` `IV` `I` `V` |
 | `I` `vi` `ii` `V` `I` |
@@ -63,7 +63,7 @@
 | `IV` `vi` `V` `I` |
 
 | Progs | Quality |
-| :------------- | --- | -----------: |
+| :------------- | -----------: |
 | `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi |
 | `Isus4` `I` `Isus2` `I` | beatles vibes |
 | `IV` `V` `I(1st)` `VI`| VI sounds thicc |
