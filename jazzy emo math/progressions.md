@@ -62,7 +62,7 @@
 | `vi` `IV` `I` `V` |
 | `IV` `vi` `V` `I` |
 
-| Progs | Quality |
+| Misc | Quality |
 | :------------- | -----------: |
 | `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi |
 | `Isus4` `I` `Isus2` `I` | beatles vibes |
@@ -104,8 +104,10 @@
 ![](https://user-images.githubusercontent.com/65428925/123689671-de505f00-d829-11eb-9620-f1b2f1880cfd.png)
 
 maj
+
 ![](https://user-images.githubusercontent.com/65428925/123691580-2d978f00-d82c-11eb-961c-10a225f7ddff.png)
 
 
 min
+
 ![](https://user-images.githubusercontent.com/65428925/123690000-42732300-d82a-11eb-8d1c-702950c9ae47.png)
