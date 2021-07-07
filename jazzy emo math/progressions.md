@@ -29,7 +29,10 @@
 | 251esque | Progressions |
 | :------------- | -----------: |
 | `iim7b5/ii V/ii` `ii V` `I` | half dim + sec dom |
-
+| `I` `viio7/ii` `ii` `V7(b9)` `I` ||
+| `vi/ii` `ii/ii` `V/ii` `ii` `V7` `I` ||
+| `ii` `iii` `IV` `V` `I` `V7(b9)/ii` `ii` ||
+| `IV` `iii` `ii` `I` `IV` `viio/ii` `V7(b9)/ii` `ii` `V` | Zelda |
 
 # Storage
 
@@ -43,7 +46,8 @@
 | Basic: (Major: `IV` `V` `vi` `%` ) (Minor: `bVI` `bVII` `i` `%`)|
 | `IV` `V` `vi` `I` | Major lift, maintain harmonic speed (no `%`)|
 | `IV` `V` `iii` `vi` | keep "minor" vibes and Harmonic Speed |
-|`IV` `V` `vi` `( III / iii / IIIdom7 )`||
+| `IV` `V` `vi` `( III / iii / IIIdom7 )`||
+| Minor: `i` `bVII(1st)` `bIII` `V(1st)/iv`||
 
 | Progs | Quality |
 | :------------- | --- | -----------: |
@@ -53,7 +57,7 @@
 | Weird Sounds | Quality |
 | :------------- | -----------: |
 | `V/VI` `IV` | resolved |
-| `N6` `Vsus` `V` `(I or i)` | N6 prep dom    | 
+| `N6` `Vsus` `V` `(I or i)` | N6 prep dom | 
 
 # Cadences
 
@@ -64,6 +68,8 @@
 | `IV` `Ii`  | Plagal |
 | `any` `V` | Half |
 | `V` `NOT!!! Ii` (ex: V VI) | deceptive |
+| `biii` `v` `I`| Cardiacs (v??) |
+| `bVI` (HS) `bVII` (HS) `I` | Super Mario |
 | `I64` `V` `I` (ex: `I` `VI` `I64` `V` `I`) | cadential-64 (I in second inv becomes pre-dom) |
 | descending and looping around: `i` `VII` `VI` `V` |Andalusian Minor|
 | descending and looping around: `iv` `III` `II` `I` |Andalusian Phrygian|
