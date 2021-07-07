@@ -53,6 +53,7 @@
 | :------------- | --- | -----------: |
 | `Imaj7` `bII9` (Trit Sub V9) `VI9` `IV9` | lofi |
 | `Isus4` `I` `Isus2` `I` | beatles vibes |
+| `IV` `V` `I(1st)` `VI`| VI sounds thicc |
 
 | Weird Sounds | Quality |
 | :------------- | -----------: |
