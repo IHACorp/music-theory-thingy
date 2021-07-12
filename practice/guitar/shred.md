@@ -1,4 +1,4 @@
-# Exercise
+# Alternate
 ## 3
 ### Alternate 16th and 16th triplet (A minor)
 [How it should sound](https://youtu.be/WmQWTOimz4k?t=521)
