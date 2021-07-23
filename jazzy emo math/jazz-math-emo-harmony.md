@@ -159,9 +159,11 @@ Melodic Down = Natural
 ```
 ### Diatonic Harmony 
 Natural
+
 ![](https://user-images.githubusercontent.com/65428925/123685725-5f592780-d825-11eb-8e96-8a9f330ace0f.png)
 
 Harmonic
+
 ![](https://user-images.githubusercontent.com/65428925/123685739-63854500-d825-11eb-9a0e-fb7e915c253d.png)
 
 ![](https://user-images.githubusercontent.com/65428925/123686386-21a8ce80-d826-11eb-9252-465737abd507.png)
@@ -170,6 +172,7 @@ Harmonic
 
 
 Melodic
+
 ![](https://user-images.githubusercontent.com/65428925/123685746-65e79f00-d825-11eb-9540-ce3ef748d1f0.png)
 
 [Combined Nat e har](https://www.musictheory.net/lessons/50)
