@@ -70,6 +70,14 @@
 | `IV` `V` `I(1st)` `VI`| VI sounds thicc |
 | `i` `iv` `bVI` `viio7/bIII` `bIII` `viio7/bVI` `bVI` ||
 
+| Andalusian Cadence ||
+| --- | --- |
+| `i` `VII` `VI` `V` == (`i` `bVII` `bVI` `V` maj lenses) | Nat Minor|
+| `iv` `III` `II` `I` | Phrygian|
+| `i` `bVII`  `bVI` `iv` | Plagal / Confortably numb|
+|`i` `bVII` `bVI` `V7`|Jazzy|
+| `i` `bVII` `bVI7`(bII7/V) `V` | Trit sub V/V|
+
 | Weird Sounds | Quality |
 | :------------- | -----------: |
 | `V/VI` `IV` | resolved |
@@ -87,9 +95,6 @@
 | `biii` `v` `I`| Cardiacs (v??) |
 | `bVI` (HS) `bVII` (HS) `I` | Super Mario |
 | `I64` `V` `I` (ex: `I` `VI` `I64` `V` `I`) | cadential-64 (I in second inv becomes pre-dom) |
-| descending and looping around: `i` `VII` `VI` `V` |Andalusian Minor|
-| descending and looping around: `iv` `III` `II` `I` |Andalusian Phrygian|
-| descending and looping around:  `i` `bVII`  `bVI` `iv` |Andalusian Confortably numb|
 | `Vsus` `V` `Ii` | Vsus cadence |
 
 # Modal
