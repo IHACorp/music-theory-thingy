@@ -25,6 +25,18 @@ DONT DO IT HALFWAY TROUGH: THE CLAVE IS THE METRONOME
 
 Works for any: 32 son, 32 rumba, 32 bossa, ... etc
 
-## Tresillo (33 clave)
+# Tresillo (33 clave??)
 Kinda based on Son Bar 1?
+
 ![](https://user-images.githubusercontent.com/65428925/126787930-5b300f36-8a6c-4fbe-b465-8a361b1a13b5.png)
+
+## Habanera
+Tresillo + Backbeat 
+
+![](https://user-images.githubusercontent.com/65428925/126788287-4047b111-5b0b-432d-9780-7eba7a8667db.png)
+
+## The Chalerston
+Tresillo - last beat
+
+![](https://user-images.githubusercontent.com/65428925/126788484-38dff77f-a011-4238-8d66-dc80d73f720a.png)
+
