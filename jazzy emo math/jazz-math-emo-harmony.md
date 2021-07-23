@@ -177,9 +177,8 @@ Melodic
 
 ![](https://user-images.githubusercontent.com/65428925/123684796-4ac85f80-d824-11eb-9d9d-44df0500ac11.png)
 
-## Chord Scales
-### Over Maj7
-#### Double Harmonic Major (Arabic / Phrygian Major)
+## Chord Scales Over Maj7
+### Double Harmonic Major (Arabic / Phrygian Major)
 1 b2 3 4 b6 7 8
 
 b2->3 AND b6->7 : Aug second, very nice melody spice
@@ -187,15 +186,20 @@ b2->3 AND b6->7 : Aug second, very nice melody spice
 Cromatic around the root wants to resolve: 7->1<-b2
 
 Spice notes over maj7: b2 4 b6
+
 The rest is resolved
-##### Diatonic harmony
-1 maj
-b2 maj Dom7 (comes with a trit sub)
-3 min,Maj,Aug
-4 min
-5 maj (& dom7?)
-b6 dimSus2
-7 maj
+#### Diatonic harmony
+- 1 maj
+- b2 maj Dom7 (comes with a trit sub)
+- 3 min,Maj,Aug
+- 4 min
+- 5 maj (& dom7?)
+- b6 dimSus2
+- 7 maj
+## Chord Scales Over MinMaj7
+### Minor Double Harmonic Major (4th mode)
+Super unstable, really wants to be Double Harmonic Major
+1 2 b3 #4 5 b6 7 8
 
 # Altcodes
 https://altcodeunicode.com/alt-codes-musical-note-instrument-symbols/
