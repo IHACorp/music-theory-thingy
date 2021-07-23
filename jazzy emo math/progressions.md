@@ -30,10 +30,10 @@
 | :------------- | -----------: |
 | `iim7b5/ii V/ii` `ii V` `I` | half dim + sec dom |
 | `I` `viio7/ii` `ii` `V7(b9)` `I` ||
+|`Imaj7`5bars `#Idim7` `iim7` `V7`| Castaways |
 | `vi/ii` `ii/ii` `V/ii` `ii` `V7` `I` ||
 | `ii` `iii` `IV` `V` `I` `V7(b9)/ii` `ii` ||
 | `IV` `iii` `ii` `I` `IV` `viio/ii` `V7(b9)/ii` `ii` `V` | Zelda |
-|`Imaj7`5bars `#Idim7` `iim7` `V7`| Castaways |
 
 # Storage
 
