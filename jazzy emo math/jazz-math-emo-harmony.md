@@ -220,3 +220,5 @@ https://altcodeunicode.com/alt-codes-musical-note-instrument-symbols/
   - [jazz theory](http://www.jazclass.aust.com/lessons/jt/1jt.htm)
   - [blues theory](http://www.jazclass.aust.com/blues4u/blues/default.htm)
   - [Scale reference](http://www.jazclass.aust.com/scales/scamaj.htm)
+- [jazz piano site](https://www.thejazzpianosite.com/jazz-piano-lessons/)
+- [music theory dot net](https://www.musictheory.net/)
