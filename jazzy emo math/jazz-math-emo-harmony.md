@@ -1,5 +1,4 @@
-# jazzy emo math Harmony
-## 7 stuff
+# 7 stuff
 ```
 Maj7                  1    3    5     7
 min7                  1   b3    5    b7
@@ -14,11 +13,11 @@ dim7                  1   b3   b5   bb7
 [image source](https://www.musictheory.net/lessons/48)
 ![](https://user-images.githubusercontent.com/65428925/123682565-87df2280-d821-11eb-8cad-7df049f3d9aa.png)
 
-### Inversions
+## Inversions
 ![Screenshot from 2021-06-28 15-31-57](https://user-images.githubusercontent.com/65428925/123686314-0e95fe80-d826-11eb-8d62-2857211a6642.png)
 
 
-## Diatonic sus
+# Diatonic sus
 Major
 1. I sus2, sus4
 2. ii sus2, sus4
@@ -39,7 +38,7 @@ Major
 - N6 preparing for dom : N6 - Vsus4 - V - I
   - Also works in minor: N6 - Vsus4 - V - i
 
-## Neopolitan (N6)
+# Neopolitan (N6)
 bII in first inversion, even if the second chord is minor
 
 Example: A major
@@ -55,7 +54,7 @@ in relation to the major scale
 N6  = 4 b2 b6   
 ```
 
-## 9 stuff
+# 9 stuff
 ```
 Dom 9th       - C9    -  1   3  5  b7   9  - usually no 5, resolves better to i
 Dom Minor 9th - C7b9  -  1   3  5  b7  b9 
@@ -75,7 +74,7 @@ minor 6/9     - Cm69  -  1  b3  5   6   9  - Substitues the minor tonic
 ```
 Adam neely on 69 chords and quartal voicing them(2:45): https://youtu.be/2IEN65JQW1E?t=56 
 
-### Diatonic 9th
+## Diatonic 9th
 Major
 1. I Major 9
 2. ii Minor 9
@@ -85,8 +84,8 @@ Major
 6. iv Minor 9
 7. viio None (mi7b5)
 
-## 11 stuff
-### diatonic 11th
+# 11 stuff
+## diatonic 11th
 Major
 1. I Major 
 2. ii Minor 11
@@ -96,14 +95,14 @@ Major
 6. iv Minor 11
 7. viio None
 
-## Dim
+# Dim
 ```
 o   dim   mb5   |  Dim Triad     |  1   b3   b5
 ø7   ø    m7b5  |  Half Dim 7th  |  1   b3   b5    b7
 o7  dim7  m6b5  |  Dim 7th       |  1   b3   b5   bb7 (enharmonical to natural 6)
 ```
 
-### In classical music
+## In classical music
 To avoid the trit, you can use the dim triad in 1st inv... gives a classical/aristocratical music feel, cause they avoided the tritone
 ```
 root
@@ -123,7 +122,7 @@ b3  -| #4 trit
 b5  -|
 ```
 
-### Diminished Key Change 
+## Diminished Key Change 
 
 
 # Scales
