@@ -26,4 +26,5 @@ DONT DO IT HALFWAY TROUGH: THE CLAVE IS THE METRONOME
 Works for any: 32 son, 32 rumba, 32 bossa, ... etc
 
 ## Tresillo (33 clave)
-Based on Son Bar 1
+Kinda based on Son Bar 1?
+![](https://user-images.githubusercontent.com/65428925/126787930-5b300f36-8a6c-4fbe-b465-8a361b1a13b5.png)
