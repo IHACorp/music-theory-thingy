@@ -72,11 +72,16 @@
 
 | Andalusian Cadence ||
 | --- | --- |
-| `i` `VII` `VI` `V` == (`i` `bVII` `bVI` `V` maj lenses) | Nat Minor|
-| `iv` `III` `II` `I` | Phrygian|
+| `i` `VII` `VI` `V` == (`i` `bVII` `bVI` `V` maj lenses) | Nat Minor lenses |
+| `iv` `III` `II` `I` | Phrygian |
 | `i` `bVII`  `bVI` `iv` | Plagal / Confortably numb|
-|`i` `bVII` `bVI` `V7`|Jazzy|
-| `i` `bVII` `bVI7`(bII7/V) `V` | Trit sub V/V|
+| `i` `bVII` `bVI7`(bII7/V) `V7` | Trit sub V/V|
+| `i` `bvii` `bVI` `V` |Implies Phrygian (b2)|
+| `i` `bVI`(1/2 or 1/4 bar, just passing) `V`(hold for longer) |No bVII, V antecipation|
+| `i` `bVI7` `V` |No bVII, trit sub|
+|||
+|Anti andalusian (antilusian) |Min quality, walk up Maj|
+| `I` `ii` `iii` `iv` | minor-plagal vibes |
 
 | Weird Sounds | Quality |
 | :------------- | -----------: |
