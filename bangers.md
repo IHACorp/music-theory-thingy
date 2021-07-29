@@ -8,6 +8,13 @@
 - [Album: Drugs](https://open.spotify.com/album/71Ji7GO6bfLFxRLFepA3IG?si=UrhQ7zzkTRSKTY7Pfxl0uw&dl_branch=1)
 - [Album: The Symposium](https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E?si=X6lqbuiDQbyyUeMu8DfrzQ&dl_branch=1)
 
+# Math Rock
+## Covet
+
+# Electronic Drum n Bass
+## Squarepusher
+- [Feed Me Weird Things](https://open.spotify.com/album/3mr4Eo5QyvLqvghU1usLM4?si=L9VknSGyQNGVqlxa4dYB7A&dl_branch=1)
+
 # Hyperpop / Electronic 
 - [Patricia Taxxon - Yes, And](https://www.youtube.com/watch?v=OU9vzwosBCk)
 - [Patricia Taxxon - Sapphire Apts](https://www.youtube.com/watch?v=yG8t_oLJPpM)
