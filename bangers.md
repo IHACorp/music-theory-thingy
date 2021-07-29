@@ -1,9 +1,19 @@
+# Atmosferic Indie
+## The Voidz
+- [Did My Best](https://open.spotify.com/album/5q9iV6CLu4ZEzhWKmJZxnc?si=QZBLzmszSO2j38nSaOCZig&dl_branch=1) 
+- [Album: Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe?si=XF6rwFsKTKu_1nAfMcpg0Q&dl_branch=1)
+- [Album: Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg?si=10asO3IwRF6DWCSfMOjJsQ&dl_branch=1)
+
+## The Symposium
+- [Album: Drugs](https://open.spotify.com/album/71Ji7GO6bfLFxRLFepA3IG?si=UrhQ7zzkTRSKTY7Pfxl0uw&dl_branch=1)
+- [Album: The Symposium](https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E?si=X6lqbuiDQbyyUeMu8DfrzQ&dl_branch=1)
+
 # Hyperpop / Electronic 
 - [Patricia Taxxon - Yes, And](https://www.youtube.com/watch?v=OU9vzwosBCk)
 - [Patricia Taxxon - Sapphire Apts](https://www.youtube.com/watch?v=yG8t_oLJPpM)
 - Everything trust fund Ozu 
 
-# Vibey Guitar
+# Modern Bluesy Guitar / Space Rock
 - [Stone Rebel - Space Arc Collection](https://www.youtube.com/watch?v=ocUT2NCGlRI)
 
 # Spectralism
