@@ -9,6 +9,7 @@
 - Psychedelic Porn Crumpets
   - [High Visceral, Pt 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo?si=Ii9v7bNnSceT9MR3yHDF1A&dl_branch=1)
     - Found god in a tomatto >>>>>
+  - [Buzz](https://open.spotify.com/track/21ng6MtUE8CBy65ygpgcSu?si=f7ae1b5b4bc647dd)
 
 # Math Rock
 - Covet
