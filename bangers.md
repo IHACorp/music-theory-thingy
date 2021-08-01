@@ -39,6 +39,14 @@
   - [No Drum And Bass In The Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr?si=EucSLTM6SpWW3DIKVEjjvA&dl_branch=1)
 - 3nd
   - [World Tour](https://open.spotify.com/album/2rKiDA5wiyA84obnLh5kOJ?si=J3SX3OWOQWWXM08mD3Nwxw&dl_branch=1)
+- Elephant Gym
+  - [Balance](https://open.spotify.com/album/1dkfBgLEErCl71OoEyq1Ah?si=Wa6VKJRGS_WL-dPZuuVCZw&dl_branch=1) 
+  - [Underwater](https://open.spotify.com/album/7e7NwDlztKAdnioBTzF2iq?si=JO15jt7ITAuom19UnYaYLA&dl_branch=1)
+
+# Emo Math (vocals)
+- Chinese Footbal
+  - [Here comes a new challenger!!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7?si=i5rPblo-QO-6Q-Z_D-M9nQ&dl_branch=1)
+  - [Chinese Football](https://open.spotify.com/album/7q9I0AOBVRVuSXQTwvNTnV?si=JyeYt1s2Q6GMJzpVRd2PUA&dl_branch=1) 
 
 # Electronic Drum n Bass
 - Squarepusher
