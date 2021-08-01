@@ -22,7 +22,7 @@
 # Cool New Jazz
 - J-Music Ensemble
   - [Metagroove](https://open.spotify.com/album/59EGCpcr4n9pxSNr2vhYeO?si=hwD2N9LvRmWFd1bFokBedQ&dl_branch=1)
- - Sungazer
+- Sungazer
   - [Sungazer, Vol. 1](https://open.spotify.com/album/2TbvHLpehuGRdgpYRdFL11?si=-8Q0ZFOcT5WT9lNsoYabCA&dl_branch=1)
   - [Sungazer, Vol. 2](https://open.spotify.com/album/7t3tjDBKgP7xLYfYeXpZ9X?si=fU1UHjcURMmdEIRCnmTrpQ&dl_branch=1)
 # Math Rock
