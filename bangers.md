@@ -10,6 +10,8 @@
   - [High Visceral, Pt 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo?si=Ii9v7bNnSceT9MR3yHDF1A&dl_branch=1)
     - Found god in a tomatto >>>>>
   - [Buzz](https://open.spotify.com/track/21ng6MtUE8CBy65ygpgcSu?si=f7ae1b5b4bc647dd)
+- Radiohead
+  - [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f?si=u6N1vOnlTaiPAvUfYKMrmw&dl_branch=1)
 
 # Post Punk
 - Public Image Ltd
@@ -32,7 +34,7 @@
 - Yin Yin
   - [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK?si=CH1revISQi63saPFk2TcJg&dl_branch=1) 
 
-# Math Rock
+# Math (Mainly Instrumental)
 - Covet
   - [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
 - Clever Girl
@@ -43,10 +45,12 @@
   - [Balance](https://open.spotify.com/album/1dkfBgLEErCl71OoEyq1Ah?si=Wa6VKJRGS_WL-dPZuuVCZw&dl_branch=1) 
   - [Underwater](https://open.spotify.com/album/7e7NwDlztKAdnioBTzF2iq?si=JO15jt7ITAuom19UnYaYLA&dl_branch=1)
 
-# Emo Math (vocals)
+# Math Emo (vocals)
 - Chinese Footbal
   - [Here comes a new challenger!!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7?si=i5rPblo-QO-6Q-Z_D-M9nQ&dl_branch=1)
   - [Chinese Football](https://open.spotify.com/album/7q9I0AOBVRVuSXQTwvNTnV?si=JyeYt1s2Q6GMJzpVRd2PUA&dl_branch=1) 
+- Radiohead:
+  - [Song: Weird Fishes / Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci?si=5b226aa0612442b8) 
 
 # Electronic Drum n Bass
 - Squarepusher
