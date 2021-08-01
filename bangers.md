@@ -1,19 +1,22 @@
-# Atmosferic Indie
+# Atmosferic Indie / Neo-Psycodelic Rock
 - The Voidz
   - [Did My Best](https://open.spotify.com/album/5q9iV6CLu4ZEzhWKmJZxnc?si=QZBLzmszSO2j38nSaOCZig&dl_branch=1) 
-  - [Album: Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe?si=XF6rwFsKTKu_1nAfMcpg0Q&dl_branch=1)
-  - [Album: Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg?si=10asO3IwRF6DWCSfMOjJsQ&dl_branch=1)
+  - [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe?si=XF6rwFsKTKu_1nAfMcpg0Q&dl_branch=1)
+  - [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg?si=10asO3IwRF6DWCSfMOjJsQ&dl_branch=1)
 - The Symposium
-  - [Album: Drugs](https://open.spotify.com/album/71Ji7GO6bfLFxRLFepA3IG?si=UrhQ7zzkTRSKTY7Pfxl0uw&dl_branch=1)
-  - [Album: The Symposium](https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E?si=X6lqbuiDQbyyUeMu8DfrzQ&dl_branch=1)
+  - [Drugs](https://open.spotify.com/album/71Ji7GO6bfLFxRLFepA3IG?si=UrhQ7zzkTRSKTY7Pfxl0uw&dl_branch=1)
+  - [The Symposium](https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E?si=X6lqbuiDQbyyUeMu8DfrzQ&dl_branch=1)
+- Psychedelic Porn Crumpets
+  - [High Visceral, Pt 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo?si=Ii9v7bNnSceT9MR3yHDF1A&dl_branch=1)
+    - Found god in a tomatto >>>>>
 
 # Math Rock
 - Covet
-  - [Album: Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
+  - [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
 - Clever Girl
   - [No Drum And Bass In The Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr?si=EucSLTM6SpWW3DIKVEjjvA&dl_branch=1)
 - 3nd
-  - [Album: World Tour](https://open.spotify.com/album/2rKiDA5wiyA84obnLh5kOJ?si=J3SX3OWOQWWXM08mD3Nwxw&dl_branch=1)
+  - [World Tour](https://open.spotify.com/album/2rKiDA5wiyA84obnLh5kOJ?si=J3SX3OWOQWWXM08mD3Nwxw&dl_branch=1)
 
 # Electronic Drum n Bass
 - Squarepusher
