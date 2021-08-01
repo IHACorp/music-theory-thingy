@@ -13,7 +13,7 @@
 
 # Post Punk
 - Public Image Ltd
-  - [Emtal Box](https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh?si=KUP0kGmmQmahmae44qpwuA&dl_branch=1) 
+  - [Metal Box](https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh?si=KUP0kGmmQmahmae44qpwuA&dl_branch=1) 
 
 # Noise
 - Poppy
