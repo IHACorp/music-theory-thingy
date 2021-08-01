@@ -19,6 +19,12 @@
 - Poppy
   - [Music To Scream To](https://open.spotify.com/album/5aFEH9QTGIezl6Go97RVRl?si=W2yTwQe9QsOvNuA88t9zVw&dl_branch=1) 
 
+# Cool New Jazz
+- J-Music Ensemble
+  - [Metagroove](https://open.spotify.com/album/59EGCpcr4n9pxSNr2vhYeO?si=hwD2N9LvRmWFd1bFokBedQ&dl_branch=1)
+ - Sungazer
+  - [Sungazer, Vol. 1](https://open.spotify.com/album/2TbvHLpehuGRdgpYRdFL11?si=-8Q0ZFOcT5WT9lNsoYabCA&dl_branch=1)
+  - [Sungazer, Vol. 2](https://open.spotify.com/album/7t3tjDBKgP7xLYfYeXpZ9X?si=fU1UHjcURMmdEIRCnmTrpQ&dl_branch=1)
 # Math Rock
 - Covet
   - [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
