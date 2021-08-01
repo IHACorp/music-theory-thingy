@@ -56,7 +56,7 @@
 - Squarepusher
   - [Feed Me Weird Things](https://open.spotify.com/album/3mr4Eo5QyvLqvghU1usLM4?si=L9VknSGyQNGVqlxa4dYB7A&dl_branch=1)
 
-# Hyperpop / Electronic 
+# Hyperpop
 - Patricia Taxxon
   - [Yes, And](https://www.youtube.com/watch?v=OU9vzwosBCk)
   - [Sapphire Apts](https://www.youtube.com/watch?v=yG8t_oLJPpM)
