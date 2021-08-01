@@ -5,19 +5,18 @@
 - [Album: Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg?si=10asO3IwRF6DWCSfMOjJsQ&dl_branch=1)
 
 ## The Symposium
-[Album: Drugs](https://open.spotify.com/album/71Ji7GO6bfLFxRLFepA3IG?si=UrhQ7zzkTRSKTY7Pfxl0uw&dl_branch=1)
-
-[Album: The Symposium](https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E?si=X6lqbuiDQbyyUeMu8DfrzQ&dl_branch=1)
+- [Album: Drugs](https://open.spotify.com/album/71Ji7GO6bfLFxRLFepA3IG?si=UrhQ7zzkTRSKTY7Pfxl0uw&dl_branch=1)
+- [Album: The Symposium](https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E?si=X6lqbuiDQbyyUeMu8DfrzQ&dl_branch=1)
 
 # Math Rock
 ## Covet
-[Album: Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
+- [Album: Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
 
 ## Clever Girl
-[No Drum And Bass In The Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr?si=EucSLTM6SpWW3DIKVEjjvA&dl_branch=1)
+- [No Drum And Bass In The Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr?si=EucSLTM6SpWW3DIKVEjjvA&dl_branch=1)
 
 ## 3nd
-[Album: World Tour](https://open.spotify.com/album/2rKiDA5wiyA84obnLh5kOJ?si=J3SX3OWOQWWXM08mD3Nwxw&dl_branch=1)
+- [Album: World Tour](https://open.spotify.com/album/2rKiDA5wiyA84obnLh5kOJ?si=J3SX3OWOQWWXM08mD3Nwxw&dl_branch=1)
 
 # Electronic Drum n Bass
 ## Squarepusher
