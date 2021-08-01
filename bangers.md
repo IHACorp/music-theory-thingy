@@ -11,6 +11,14 @@
     - Found god in a tomatto >>>>>
   - [Buzz](https://open.spotify.com/track/21ng6MtUE8CBy65ygpgcSu?si=f7ae1b5b4bc647dd)
 
+# Post Punk
+- Public Image Ltd
+  - [Emtal Box](https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh?si=KUP0kGmmQmahmae44qpwuA&dl_branch=1) 
+
+# Noise
+- Poppy
+  - [Music To Scream To](https://open.spotify.com/album/5aFEH9QTGIezl6Go97RVRl?si=W2yTwQe9QsOvNuA88t9zVw&dl_branch=1) 
+
 # Math Rock
 - Covet
   - [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
