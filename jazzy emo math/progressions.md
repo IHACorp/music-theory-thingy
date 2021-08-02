@@ -58,7 +58,8 @@
 |Musical||
 |||
 |Hamilton|https://www.youtube.com/watch?v=BK42FerFetg|
-|`I` `vi` `iii`|Aaron Burr|
+|`I`C `vi`Am `iii`Em|Aaron Burr / the world was wide Enough|
+|`V7`E7 `i`Am `V7` `i` `V`E `bVI`F `bIII`C `V7 / b3`E7/G# `i` `V` `bVI` `....`|[Alexander Hamilton](https://s3.amazonaws.com/halleonard-pagepreviews/HL_DDS_1221253rNVa5ULw50.png)|
 
 | Pop |
 | --- |
