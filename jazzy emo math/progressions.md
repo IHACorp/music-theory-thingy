@@ -111,7 +111,7 @@
 
 | Phrygian |
 | --- |
-| `i`  `bIImaj / M7` `bIIImaj` |
+| `i`  `bIImaj / M7` `bIIImaj` (Bbm7 B/Bb Ab ) |
 
 # Circle progressions
 Root motion Up 4th or Down 5th
