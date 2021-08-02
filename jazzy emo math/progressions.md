@@ -54,6 +54,12 @@
 |||
 | `IV` `ivMinMaj7` `vi` `I` `iii` | mini line cliche |
 
+
+|Musical||
+|||
+|Hamilton|https://www.youtube.com/watch?v=BK42FerFetg|
+|`I` `vi` `iii`|Aaron Burr|
+
 | Pop |
 | --- |
 | `I` `IV` `I` `V` |
@@ -107,7 +113,6 @@
 | Lydian |
 | --- |
 | `I` `II` `I` `II` |
-
 
 | Phrygian |
 | --- |
