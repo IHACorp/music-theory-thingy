@@ -64,6 +64,8 @@
 
 # Modern Bluesy Guitar / Space Rock
 - [Stone Rebel - Space Arc Collection](https://www.youtube.com/watch?v=ocUT2NCGlRI)
+- Electric Octopus
+  - [This Is Our Culture](https://open.spotify.com/album/72QrDImis2BlbpXBva1VjQ?si=dw7LovvwR9GGDC5JAT2kNA&dl_branch=1) 
 
 # Spectralism
 - [Tristan Murail Désintégrations with Sonic Visualizer](https://www.youtube.com/watch?v=4basuUUatf8)
