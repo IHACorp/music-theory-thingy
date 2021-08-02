@@ -108,6 +108,11 @@
 | --- |
 | `I` `II` `I` `II` |
 
+
+| Phrygian |
+| --- |
+| `i`  `bIImaj` `bIIImaj` |
+
 # Circle progressions
 Root motion Up 4th or Down 5th
 
