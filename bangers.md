@@ -13,6 +13,10 @@
 - Radiohead
   - [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f?si=u6N1vOnlTaiPAvUfYKMrmw&dl_branch=1)
 
+# Indie Rock
+- Guided By Voices: [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE?si=Zxd5pwV2QPy_NZOEkgpucg&dl_branch=1)
+- tricot: [Live on AudioTree](https://open.spotify.com/album/0eegdxDxbzXjUJzhIhxx0n?si=t5xPGjuKSWueNY_E3AS8Cw&dl_branch=1)
+
 # Post Punk
 - Public Image Ltd : [Metal Box](https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh?si=KUP0kGmmQmahmae44qpwuA&dl_branch=1) 
 
