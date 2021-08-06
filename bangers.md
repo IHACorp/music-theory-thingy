@@ -7,20 +7,10 @@
   - [Drugs](https://open.spotify.com/album/71Ji7GO6bfLFxRLFepA3IG?si=UrhQ7zzkTRSKTY7Pfxl0uw&dl_branch=1)
   - [The Symposium](https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E?si=X6lqbuiDQbyyUeMu8DfrzQ&dl_branch=1)
 - Psychedelic Porn Crumpets
-  - [High Visceral, Pt 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo?si=Ii9v7bNnSceT9MR3yHDF1A&dl_branch=1)
-    - Found god in a tomatto >>>>>
+  - [High Visceral, Pt 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo?si=Ii9v7bNnSceT9MR3yHDF1A&dl_branch=1) (Found god in a tomatto >>>>>)
   - [Buzz](https://open.spotify.com/track/21ng6MtUE8CBy65ygpgcSu?si=f7ae1b5b4bc647dd)
 - Radiohead
   - [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f?si=u6N1vOnlTaiPAvUfYKMrmw&dl_branch=1)
-
-# Indie Rock
-- Guided By Voices: [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE?si=Zxd5pwV2QPy_NZOEkgpucg&dl_branch=1)
-- tricot: [Live on AudioTree](https://open.spotify.com/album/0eegdxDxbzXjUJzhIhxx0n?si=t5xPGjuKSWueNY_E3AS8Cw&dl_branch=1)
-- Car Seat Headrest
-  - [Making a Door Less Open](https://open.spotify.com/album/0p6P42zHY2W8Zd7BKBcKQg?si=6SYzBsekQAiNYJGKi2vinA&dl_branch=1)
-  - [How to Leave Town](https://open.spotify.com/album/0lq70zJB8BylaX5tgkNnOA?si=Y36f5janRy2D_DKhaRXV8Q&dl_branch=1)
-  - [Twin Fantasy (Mirror to Mirror ) (2010)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI?si=Ck6REIepS26uGUQwLB4vgA&dl_branch=1)
-  - [Teens Of Denial](https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP?si=WVImos88SE6TGJOHG1KXdw&dl_branch=1)
 
 # Post Punk
 - Public Image Ltd : [Metal Box](https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh?si=KUP0kGmmQmahmae44qpwuA&dl_branch=1) 
@@ -28,7 +18,21 @@
 # Noise
 - Poppy: [Music To Scream To](https://open.spotify.com/album/5aFEH9QTGIezl6Go97RVRl?si=W2yTwQe9QsOvNuA88t9zVw&dl_branch=1) 
 
-# Hard Jazz
+# Weird Indie Rock
+- Guided By Voices: [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE?si=Zxd5pwV2QPy_NZOEkgpucg&dl_branch=1)
+- Car Seat Headrest
+  - [Making a Door Less Open](https://open.spotify.com/album/0p6P42zHY2W8Zd7BKBcKQg?si=6SYzBsekQAiNYJGKi2vinA&dl_branch=1)
+  - [How to Leave Town](https://open.spotify.com/album/0lq70zJB8BylaX5tgkNnOA?si=Y36f5janRy2D_DKhaRXV8Q&dl_branch=1)
+  - [Twin Fantasy (Mirror to Mirror ) (2010)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI?si=Ck6REIepS26uGUQwLB4vgA&dl_branch=1)
+  - [Teens Of Denial](https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP?si=WVImos88SE6TGJOHG1KXdw&dl_branch=1)
+
+# Hard (Heavy) Indie Rock
+- grandson
+  - [Song: riptide](https://open.spotify.com/track/2oAZlBN2CmNieXmJ1bQDYL?si=a1975982bfb2457c) 
+  - [Song: identity](https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m?si=879483ea9f3f4db2)
+  - [Song: Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT?si=55337f4091cb4cab)
+
+# Hard (To Play) Jazz
 - J-Music Ensemble: [Metagroove](https://open.spotify.com/album/59EGCpcr4n9pxSNr2vhYeO?si=hwD2N9LvRmWFd1bFokBedQ&dl_branch=1)
 - Sungazer
   - [Sungazer, Vol. 1](https://open.spotify.com/album/2TbvHLpehuGRdgpYRdFL11?si=-8Q0ZFOcT5WT9lNsoYabCA&dl_branch=1)
@@ -55,6 +59,8 @@
   - [Here comes a new challenger!!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7?si=i5rPblo-QO-6Q-Z_D-M9nQ&dl_branch=1)
   -  [Chinese Football](https://open.spotify.com/album/7q9I0AOBVRVuSXQTwvNTnV?si=JyeYt1s2Q6GMJzpVRd2PUA&dl_branch=1) 
 - Radiohead: [Song: Weird Fishes / Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci?si=5b226aa0612442b8) 
+- tricot: [Live on AudioTree](https://open.spotify.com/album/0eegdxDxbzXjUJzhIhxx0n?si=t5xPGjuKSWueNY_E3AS8Cw&dl_branch=1)
+
 
 # Electronic Drum n Bass
 - Squarepusher
