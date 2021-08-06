@@ -16,6 +16,11 @@
 # Indie Rock
 - Guided By Voices: [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE?si=Zxd5pwV2QPy_NZOEkgpucg&dl_branch=1)
 - tricot: [Live on AudioTree](https://open.spotify.com/album/0eegdxDxbzXjUJzhIhxx0n?si=t5xPGjuKSWueNY_E3AS8Cw&dl_branch=1)
+- Car Seat Headrest
+  - [Making a Door Less Open](https://open.spotify.com/album/0p6P42zHY2W8Zd7BKBcKQg?si=6SYzBsekQAiNYJGKi2vinA&dl_branch=1)
+  - [How to Leave Town](https://open.spotify.com/album/0lq70zJB8BylaX5tgkNnOA?si=Y36f5janRy2D_DKhaRXV8Q&dl_branch=1)
+  - [Twin Fantasy (Mirror to Mirror ) (2010)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI?si=Ck6REIepS26uGUQwLB4vgA&dl_branch=1)
+  - [Teens Of Denial](https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP?si=WVImos88SE6TGJOHG1KXdw&dl_branch=1)
 
 # Post Punk
 - Public Image Ltd : [Metal Box](https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh?si=KUP0kGmmQmahmae44qpwuA&dl_branch=1) 
