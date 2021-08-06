@@ -14,29 +14,23 @@
   - [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f?si=u6N1vOnlTaiPAvUfYKMrmw&dl_branch=1)
 
 # Post Punk
-- Public Image Ltd
-  - [Metal Box](https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh?si=KUP0kGmmQmahmae44qpwuA&dl_branch=1) 
+- Public Image Ltd : [Metal Box](https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh?si=KUP0kGmmQmahmae44qpwuA&dl_branch=1) 
 
 # Noise
-- Poppy
-  - [Music To Scream To](https://open.spotify.com/album/5aFEH9QTGIezl6Go97RVRl?si=W2yTwQe9QsOvNuA88t9zVw&dl_branch=1) 
+- Poppy: [Music To Scream To](https://open.spotify.com/album/5aFEH9QTGIezl6Go97RVRl?si=W2yTwQe9QsOvNuA88t9zVw&dl_branch=1) 
 
 # Hard Jazz
-- J-Music Ensemble
-  - [Metagroove](https://open.spotify.com/album/59EGCpcr4n9pxSNr2vhYeO?si=hwD2N9LvRmWFd1bFokBedQ&dl_branch=1)
+- J-Music Ensemble: [Metagroove](https://open.spotify.com/album/59EGCpcr4n9pxSNr2vhYeO?si=hwD2N9LvRmWFd1bFokBedQ&dl_branch=1)
 - Sungazer
   - [Sungazer, Vol. 1](https://open.spotify.com/album/2TbvHLpehuGRdgpYRdFL11?si=-8Q0ZFOcT5WT9lNsoYabCA&dl_branch=1)
   - [Sungazer, Vol. 2](https://open.spotify.com/album/7t3tjDBKgP7xLYfYeXpZ9X?si=fU1UHjcURMmdEIRCnmTrpQ&dl_branch=1)
-- Weather Report
-  - [Heavy Weather](https://open.spotify.com/album/2M9F2yYsUvqiBPwUGeNvn1?si=WbTi5ciUSrGjCjt4lgvN2w&dl_branch=1) 
+- Weather Report: [Heavy Weather](https://open.spotify.com/album/2M9F2yYsUvqiBPwUGeNvn1?si=WbTi5ciUSrGjCjt4lgvN2w&dl_branch=1) 
 
 # Soft Jazz
-- BADBADNOTGOOD
-  - [III](https://open.spotify.com/album/2VRbf914JFe94E5tHumySe?si=vWP1Cd1GRZqar1NjmFsKsQ&dl_branch=1) 
+- BADBADNOTGOOD: [III](https://open.spotify.com/album/2VRbf914JFe94E5tHumySe?si=vWP1Cd1GRZqar1NjmFsKsQ&dl_branch=1) 
 
 # Rythmic Jazz
-- Yin Yin
-  - [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK?si=CH1revISQi63saPFk2TcJg&dl_branch=1) 
+- Yin Yin: [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK?si=CH1revISQi63saPFk2TcJg&dl_branch=1) 
 
 # Math (Mainly Instrumental)
 - Covet
@@ -50,11 +44,8 @@
   - [Underwater](https://open.spotify.com/album/7e7NwDlztKAdnioBTzF2iq?si=JO15jt7ITAuom19UnYaYLA&dl_branch=1)
 
 # Math Emo (vocals)
-- Chinese Footbal
-  - [Here comes a new challenger!!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7?si=i5rPblo-QO-6Q-Z_D-M9nQ&dl_branch=1)
-  - [Chinese Football](https://open.spotify.com/album/7q9I0AOBVRVuSXQTwvNTnV?si=JyeYt1s2Q6GMJzpVRd2PUA&dl_branch=1) 
-- Radiohead:
-  - [Song: Weird Fishes / Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci?si=5b226aa0612442b8) 
+- Chinese Footbal: [Here comes a new challenger!!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7?si=i5rPblo-QO-6Q-Z_D-M9nQ&dl_branch=1), [Chinese Football](https://open.spotify.com/album/7q9I0AOBVRVuSXQTwvNTnV?si=JyeYt1s2Q6GMJzpVRd2PUA&dl_branch=1) 
+- Radiohead: [Song: Weird Fishes / Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci?si=5b226aa0612442b8) 
 
 # Electronic Drum n Bass
 - Squarepusher
@@ -68,8 +59,7 @@
 
 # Modern Bluesy Guitar / Space Rock
 - [Stone Rebel - Space Arc Collection](https://www.youtube.com/watch?v=ocUT2NCGlRI)
-- Electric Octopus
-  - [This Is Our Culture](https://open.spotify.com/album/72QrDImis2BlbpXBva1VjQ?si=dw7LovvwR9GGDC5JAT2kNA&dl_branch=1) 
+- Electric Octopus: [This Is Our Culture](https://open.spotify.com/album/72QrDImis2BlbpXBva1VjQ?si=dw7LovvwR9GGDC5JAT2kNA&dl_branch=1) 
 
 # Spectralism
 - [Tristan Murail Désintégrations with Sonic Visualizer](https://www.youtube.com/watch?v=4basuUUatf8)
