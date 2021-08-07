@@ -50,8 +50,7 @@
 - Yin Yin: [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK?si=CH1revISQi63saPFk2TcJg&dl_branch=1) 
 
 # Math (Mainly Instrumental)
-- Covet
-  - [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
+- Covet: [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
 - Clever Girl: [No Drum And Bass In The Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr?si=EucSLTM6SpWW3DIKVEjjvA&dl_branch=1)
 - 3nd: [World Tour](https://open.spotify.com/album/2rKiDA5wiyA84obnLh5kOJ?si=J3SX3OWOQWWXM08mD3Nwxw&dl_branch=1)
 - Elephant Gym
