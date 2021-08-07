@@ -41,6 +41,8 @@
 
 # Soft Jazz
 - BADBADNOTGOOD: [III](https://open.spotify.com/album/2VRbf914JFe94E5tHumySe?si=vWP1Cd1GRZqar1NjmFsKsQ&dl_branch=1) 
+- The Breathing Effect
+  - [Mars Is A Very Bad Place For Love](https://open.spotify.com/album/36pAgvV7IQu7KMtyiBqse8?si=SmDDwTw0Qg2uFhXU7ke_cA&dl_branch=1) 
 - Joe Hisaishi
   - [Studio Ghibli Experience, Part 1](https://open.spotify.com/playlist/5ezritxuwy7Fz1RV9BwRIm?si=3a316f67f04a4e34)
 
