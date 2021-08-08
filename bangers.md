@@ -40,7 +40,9 @@
 - Weather Report: [Heavy Weather](https://open.spotify.com/album/2M9F2yYsUvqiBPwUGeNvn1?si=WbTi5ciUSrGjCjt4lgvN2w&dl_branch=1) 
 
 # Soft Jazz
-- BADBADNOTGOOD: [III](https://open.spotify.com/album/2VRbf914JFe94E5tHumySe?si=vWP1Cd1GRZqar1NjmFsKsQ&dl_branch=1) 
+- BADBADNOTGOOD: 
+  - [III](https://open.spotify.com/album/2VRbf914JFe94E5tHumySe?si=vWP1Cd1GRZqar1NjmFsKsQ&dl_branch=1) 
+  - [NPR tiny desk](https://www.youtube.com/watch?v=Ap4DtvUu7Bk)
 - The Breathing Effect
   - [Mars Is A Very Bad Place For Love](https://open.spotify.com/album/36pAgvV7IQu7KMtyiBqse8?si=SmDDwTw0Qg2uFhXU7ke_cA&dl_branch=1) 
 - Joe Hisaishi
@@ -87,6 +89,10 @@
   - Procedural generation: [tatsuru arai Hyper-Serial-Music](https://www.tatsuruarai.com/hyper-serial-music)
   - [Goeyvaerts and the Beginnings of 'Punctual' Serialism and Electronic Music](https://www.jstor.org/stable/3687128)
   - [Hearing Pentatonicism Through Serialism: Integrating Different Traditions in Chinese Contemporary Music ](https://www.jstor.org/stable/25164495)
+
+# Documentary
+- [Jaco Pastorius "The Lost Tapes Documentary"
+](https://www.youtube.com/watch?v=TviJ3ccaSXM)
 
 # Non Ambiente Xenharmonic
 ## 24edo
