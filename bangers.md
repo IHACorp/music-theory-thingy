@@ -8,7 +8,7 @@
   - [The Symposium](https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E?si=X6lqbuiDQbyyUeMu8DfrzQ&dl_branch=1)
 - Psychedelic Porn Crumpets
   - [High Visceral, Pt 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo?si=Ii9v7bNnSceT9MR3yHDF1A&dl_branch=1) (Found god in a tomatto >>>>>)
-  - [Buzz](https://open.spotify.com/track/21ng6MtUE8CBy65ygpgcSu?si=f7ae1b5b4bc647dd)
+  - [High Visceral, Pt 2](https://open.spotify.com/album/7FYAHQXSCN80hqBZXUvKwj?si=xF2PopITRnGd1YISNZnasQ&dl_branch=1)
 - Radiohead
   - [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f?si=u6N1vOnlTaiPAvUfYKMrmw&dl_branch=1)
 
