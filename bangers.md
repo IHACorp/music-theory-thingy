@@ -93,6 +93,9 @@
 - [Stone Rebel - Space Arc Collection](https://www.youtube.com/watch?v=ocUT2NCGlRI)
 - Electric Octopus: [This Is Our Culture](https://open.spotify.com/album/72QrDImis2BlbpXBva1VjQ?si=dw7LovvwR9GGDC5JAT2kNA&dl_branch=1) 
 
+# Funk
+- Graham Central Station [Song: Hair](https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0?si=1e0507962fbe4ede)
+
 # Spectralism
 - [Tristan Murail Désintégrations with Sonic Visualizer](https://www.youtube.com/watch?v=4basuUUatf8)
 
