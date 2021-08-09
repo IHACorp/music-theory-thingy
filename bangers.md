@@ -18,6 +18,14 @@
 # Noise
 - Poppy: [Music To Scream To](https://open.spotify.com/album/5aFEH9QTGIezl6Go97RVRl?si=W2yTwQe9QsOvNuA88t9zVw&dl_branch=1) 
 
+# Pop/Rap
+- Tyler, The Creator [NPR Tiny Desk](https://www.youtube.com/watch?v=N1w-hDiJ4dM)
+- Ren
+  - [Freckled Angels](https://open.spotify.com/album/3mK2CWUge7AeTGzwHTMwq8?si=4Dv-aaDbS8mi3OhCuqMfhA&dl_branch=1)
+  - [The Tale of Jenny & Screech](https://open.spotify.com/album/6DsODgnp2qCn2gWMSe1BWt?si=N17lY_bsT8G5dGd1epL2Cg&dl_branch=1)
+  - [Song: Money Game](https://open.spotify.com/track/0dfmnkAfTRMdvVp5gqI8VG?si=a3a3e3fd977f44bf) 
+  - [Song: Children Of The Moon](https://open.spotify.com/track/60KuHvuz4Ko0AFHllhbVFq?si=cb47ff99bf50435e)
+
 # Weird Indie Rock
 - Guided By Voices: [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE?si=Zxd5pwV2QPy_NZOEkgpucg&dl_branch=1)
 - Car Seat Headrest
@@ -50,6 +58,10 @@
 
 # Rythmic Jazz
 - Yin Yin: [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK?si=CH1revISQi63saPFk2TcJg&dl_branch=1) 
+
+# Tradicional Jazz
+ - [Jeff Hamilton Trio | Live At Jazz Port Townsend
+] (https://www.youtube.com/watch?v=BUaBJ_uNmRA)
 
 # Math (Mainly Instrumental)
 - Covet: [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
