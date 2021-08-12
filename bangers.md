@@ -112,6 +112,6 @@
 # Non Ambiente Xenharmonic
 - Sevish
   - [Harmony Hacker](https://open.spotify.com/album/61NYclP8BapCT54gttN4Pi?si=b5ySQM8cToG-dUo3j0_U5w&dl_branch=1) 
-  - 
+  - [Bubble](https://open.spotify.com/album/7815N8VtqiQye9qnDVweZy?si=j7o-C0CMQiOEw7Lta_PkIQ&dl_branch=1) (Fuschiamarine >>>)
 ## 24edo
 - [Patricia Taxxon : Spiral Staircase](https://youtu.be/2478o311QcQ)
