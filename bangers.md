@@ -14,6 +14,7 @@
 
 # Post Punk
 - Public Image Ltd : [Metal Box](https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh?si=KUP0kGmmQmahmae44qpwuA&dl_branch=1) 
+- Suicide: [Suicide](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd?si=o3PgAoL0RtSjHoja5hAehg&dl_branch=1)
 
 # Noise
 - Poppy: [Music To Scream To](https://open.spotify.com/album/5aFEH9QTGIezl6Go97RVRl?si=W2yTwQe9QsOvNuA88t9zVw&dl_branch=1) 
