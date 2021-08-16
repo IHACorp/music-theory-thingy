@@ -47,7 +47,7 @@
   - [Sungazer, Vol. 1](https://open.spotify.com/album/2TbvHLpehuGRdgpYRdFL11?si=-8Q0ZFOcT5WT9lNsoYabCA&dl_branch=1)
   - [Sungazer, Vol. 2](https://open.spotify.com/album/7t3tjDBKgP7xLYfYeXpZ9X?si=fU1UHjcURMmdEIRCnmTrpQ&dl_branch=1)
 - Weather Report: [Heavy Weather](https://open.spotify.com/album/2M9F2yYsUvqiBPwUGeNvn1?si=WbTi5ciUSrGjCjt4lgvN2w&dl_branch=1) 
-
+- The Physics House Band [Horizons / Rapture](https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt?si=QipYWXmkRLiP6VN2qVaIvg&dl_branch=1)
 # Soft Jazz
 - BADBADNOTGOOD: 
   - [III](https://open.spotify.com/album/2VRbf914JFe94E5tHumySe?si=vWP1Cd1GRZqar1NjmFsKsQ&dl_branch=1) 
