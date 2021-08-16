@@ -40,7 +40,7 @@
   - [Song: riptide](https://open.spotify.com/track/2oAZlBN2CmNieXmJ1bQDYL?si=a1975982bfb2457c) 
   - [Song: identity](https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m?si=879483ea9f3f4db2)
   - [Song: Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT?si=55337f4091cb4cab)
-
+ - grandson + death from above 1979 : [Song: Modern Guy - grandson remix](https://open.spotify.com/track/06N9EtG8FGff0RBaQuyiV4?si=dcde332fe1c447cb)
 # Hard (To Play) Jazz
 - J-Music Ensemble: [Metagroove](https://open.spotify.com/album/59EGCpcr4n9pxSNr2vhYeO?si=hwD2N9LvRmWFd1bFokBedQ&dl_branch=1)
 - Sungazer
