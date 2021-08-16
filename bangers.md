@@ -116,3 +116,5 @@
   - [Bubble](https://open.spotify.com/album/7815N8VtqiQye9qnDVweZy?si=j7o-C0CMQiOEw7Lta_PkIQ&dl_branch=1) (Fuschiamarine >>>)
 ## 24edo
 - [Patricia Taxxon : Spiral Staircase](https://youtu.be/2478o311QcQ)
+## 19edo
+- [Mother 3 Gentle Rain in 19 tet](https://www.youtube.com/watch?v=euQFGCj9O5k&list=PLha3CFvr8SzxF3jOS1IWrHgkstpNkxy_B&index=17)
