@@ -92,7 +92,7 @@
   - [Yes, And](https://www.youtube.com/watch?v=OU9vzwosBCk)
   - [Sapphire Apts](https://www.youtube.com/watch?v=yG8t_oLJPpM)
 - trust fund Ozu 
-
+  - everything
 # Modern Bluesy Guitar / Space Rock
 - [Stone Rebel - Space Arc Collection](https://www.youtube.com/watch?v=ocUT2NCGlRI)
 - Electric Octopus: [This Is Our Culture](https://open.spotify.com/album/72QrDImis2BlbpXBva1VjQ?si=dw7LovvwR9GGDC5JAT2kNA&dl_branch=1) 
