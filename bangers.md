@@ -1,4 +1,4 @@
-# Atmosferic Indie / Neo-Psycodelic Rock
+# Atmosferic Indie / Neo-Psycodelic 
 - The Voidz
   - [Did My Best](https://open.spotify.com/album/5q9iV6CLu4ZEzhWKmJZxnc?si=QZBLzmszSO2j38nSaOCZig&dl_branch=1) 
   - [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe?si=XF6rwFsKTKu_1nAfMcpg0Q&dl_branch=1)
@@ -27,7 +27,10 @@
   - [Song: Money Game](https://open.spotify.com/track/0dfmnkAfTRMdvVp5gqI8VG?si=a3a3e3fd977f44bf) 
   - [Song: Children Of The Moon](https://open.spotify.com/track/60KuHvuz4Ko0AFHllhbVFq?si=cb47ff99bf50435e)
 
-# Weird Indie Rock
+# Soft Indie
+- Peach Pit [You and Your Friends](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w?si=Ktwbe506S8qHm5UcyRU87Q&dl_branch=1)
+
+# Weird Indie
 - Guided By Voices: [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE?si=Zxd5pwV2QPy_NZOEkgpucg&dl_branch=1)
 - Car Seat Headrest
   - [Making a Door Less Open](https://open.spotify.com/album/0p6P42zHY2W8Zd7BKBcKQg?si=6SYzBsekQAiNYJGKi2vinA&dl_branch=1)
@@ -35,7 +38,7 @@
   - [Twin Fantasy (Mirror to Mirror ) (2010)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI?si=Ck6REIepS26uGUQwLB4vgA&dl_branch=1)
   - [Teens Of Denial](https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP?si=WVImos88SE6TGJOHG1KXdw&dl_branch=1)
 
-# Hard (Heavy) Indie Rock
+# Hard (Heavy) Indie 
 - grandson
   - [Song: riptide](https://open.spotify.com/track/2oAZlBN2CmNieXmJ1bQDYL?si=a1975982bfb2457c) 
   - [Song: identity](https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m?si=879483ea9f3f4db2)
