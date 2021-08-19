@@ -83,7 +83,7 @@
 - tricot: [Live on AudioTree](https://open.spotify.com/album/0eegdxDxbzXjUJzhIhxx0n?si=t5xPGjuKSWueNY_E3AS8Cw&dl_branch=1)
 
 
-# Electronic art Drum n Bass
+# Electronic Artsy Drum n Bass
 - Squarepusher
   - [Feed Me Weird Things](https://open.spotify.com/album/3mr4Eo5QyvLqvghU1usLM4?si=L9VknSGyQNGVqlxa4dYB7A&dl_branch=1)
   - [Burningn'n Tree](https://open.spotify.com/album/6991r3NVsEyN0M32pHtqdo?si=Px-IjTriQIqZK7NyhLN32g&dl_branch=1)
