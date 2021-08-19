@@ -83,10 +83,15 @@
 - tricot: [Live on AudioTree](https://open.spotify.com/album/0eegdxDxbzXjUJzhIhxx0n?si=t5xPGjuKSWueNY_E3AS8Cw&dl_branch=1)
 
 
-# Electronic / Drum n Bass
+# Electronic art Drum n Bass
 - Squarepusher
   - [Feed Me Weird Things](https://open.spotify.com/album/3mr4Eo5QyvLqvghU1usLM4?si=L9VknSGyQNGVqlxa4dYB7A&dl_branch=1)
-
+  - [Burningn'n Tree](https://open.spotify.com/album/6991r3NVsEyN0M32pHtqdo?si=Px-IjTriQIqZK7NyhLN32g&dl_branch=1)
+  - [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS?si=HZ56Tfv8QCS4xrLwQpoVJA&dl_branch=1)
+-Three Trapped Tigers
+  - [Silent Earthling](https://open.spotify.com/album/0KIUMm3Br5jHyMd4O6KyDW?si=bfBuGnEKQgOU9ur6qjhpOA&dl_branch=1)
+  - [Numbers: 1-13](https://open.spotify.com/album/6WJxBh0qqaZzLKcmP8NaTM?si=NSRIf-Y5QBqIACzmo0vWzw&dl_branch=1)
+  - [Route One or Die](https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH?si=CyUgTwcPSrWAgRWCCJpQVQ&dl_branch=1)
 # Hyperpop
 - Patricia Taxxon
   - [Yes, And](https://www.youtube.com/watch?v=OU9vzwosBCk)
