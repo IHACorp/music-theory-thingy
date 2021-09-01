@@ -53,7 +53,10 @@
   - [Song: identity](https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m?si=879483ea9f3f4db2)
   - [Song: Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT?si=55337f4091cb4cab)
  - grandson + death from above 1979 : [Song: Modern Guy - grandson remix](https://open.spotify.com/track/06N9EtG8FGff0RBaQuyiV4?si=dcde332fe1c447cb)
-
+- (early) Artic Monkeys
+  - [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/7F6XbqxHV4xIAj14oUCZoS?si=qsLh9afYRP-elXsyAY0uOw&dl_branch=1)
+  - [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm?si=i3GPhwzqQYSPJ1a_YSQHVQ&dl_branch=1)
+ 
 # Hard (To Play) Jazz
 - J-Music Ensemble: [Metagroove](https://open.spotify.com/album/59EGCpcr4n9pxSNr2vhYeO?si=hwD2N9LvRmWFd1bFokBedQ&dl_branch=1)
 - Sungazer
