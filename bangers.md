@@ -27,8 +27,14 @@
   - [Song: Money Game](https://open.spotify.com/track/0dfmnkAfTRMdvVp5gqI8VG?si=a3a3e3fd977f44bf) 
   - [Song: Children Of The Moon](https://open.spotify.com/track/60KuHvuz4Ko0AFHllhbVFq?si=cb47ff99bf50435e)
 
-# Soft Indie
-- Peach Pit [You and Your Friends](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w?si=Ktwbe506S8qHm5UcyRU87Q&dl_branch=1)
+
+
+# Cool indie
+- IDK How But They Me
+  - [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG?si=gpHH9_D6T3SWzELkRHnS1Q&dl_branch=1) 
+  - [Song: Modern Day Cain](https://open.spotify.com/album/5cTV8MHQCUnZNq8WyBVjBf?si=xjj_PV08QACrJ3hsSnr-sw&dl_branch=1)
+  - [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll?si=UtJryJLkTEuVVe9YPov8nQ&dl_branch=1)
+  - [Christmas Drag](https://open.spotify.com/album/7F6XbqxHV4xIAj14oUCZoS?si=qsLh9afYRP-elXsyAY0uOw&dl_branch=1)
 
 # Weird Indie
 - Guided By Voices: [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE?si=Zxd5pwV2QPy_NZOEkgpucg&dl_branch=1)
@@ -38,12 +44,16 @@
   - [Twin Fantasy (Mirror to Mirror ) (2010)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI?si=Ck6REIepS26uGUQwLB4vgA&dl_branch=1)
   - [Teens Of Denial](https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP?si=WVImos88SE6TGJOHG1KXdw&dl_branch=1)
 
+# Soft Indie
+- Peach Pit [You and Your Friends](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w?si=Ktwbe506S8qHm5UcyRU87Q&dl_branch=1)
+
 # Hard (Heavy) Indie 
 - grandson
   - [Song: riptide](https://open.spotify.com/track/2oAZlBN2CmNieXmJ1bQDYL?si=a1975982bfb2457c) 
   - [Song: identity](https://open.spotify.com/track/6xDpjffkQ4daA6AiR7F15m?si=879483ea9f3f4db2)
   - [Song: Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT?si=55337f4091cb4cab)
  - grandson + death from above 1979 : [Song: Modern Guy - grandson remix](https://open.spotify.com/track/06N9EtG8FGff0RBaQuyiV4?si=dcde332fe1c447cb)
+
 # Hard (To Play) Jazz
 - J-Music Ensemble: [Metagroove](https://open.spotify.com/album/59EGCpcr4n9pxSNr2vhYeO?si=hwD2N9LvRmWFd1bFokBedQ&dl_branch=1)
 - Sungazer
@@ -51,6 +61,7 @@
   - [Sungazer, Vol. 2](https://open.spotify.com/album/7t3tjDBKgP7xLYfYeXpZ9X?si=fU1UHjcURMmdEIRCnmTrpQ&dl_branch=1)
 - Weather Report: [Heavy Weather](https://open.spotify.com/album/2M9F2yYsUvqiBPwUGeNvn1?si=WbTi5ciUSrGjCjt4lgvN2w&dl_branch=1) 
 - The Physics House Band [Horizons / Rapture](https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt?si=QipYWXmkRLiP6VN2qVaIvg&dl_branch=1)
+
 # Soft Jazz
 - BADBADNOTGOOD: 
   - [III](https://open.spotify.com/album/2VRbf914JFe94E5tHumySe?si=vWP1Cd1GRZqar1NjmFsKsQ&dl_branch=1) 
