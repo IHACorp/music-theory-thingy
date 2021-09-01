@@ -117,8 +117,8 @@
   - [Hearing Pentatonicism Through Serialism: Integrating Different Traditions in Chinese Contemporary Music ](https://www.jstor.org/stable/25164495)
 
 # Documentary
-- [Jaco Pastorius "The Lost Tapes Documentary"
-](https://www.youtube.com/watch?v=TviJ3ccaSXM)
+- [Jaco Pastorius "The Lost Tapes Documentary"](https://www.youtube.com/watch?v=TviJ3ccaSXM)
+- [JACO PASTORIUS - MODERN ELECTRIC BASS](https://www.youtube.com/watch?v=yWJjZP5mzvQ)
 
 # Non Ambiente Xenharmonic
 - Sevish
