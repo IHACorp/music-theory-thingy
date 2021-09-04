@@ -95,6 +95,10 @@
 - Radiohead: [Song: Weird Fishes / Arpeggi](https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci?si=5b226aa0612442b8) 
 - tricot: [Live on AudioTree](https://open.spotify.com/album/0eegdxDxbzXjUJzhIhxx0n?si=t5xPGjuKSWueNY_E3AS8Cw&dl_branch=1)
 
+# Math Hot Mess
+- Hella
+  - [Hold Your Horse Is](https://open.spotify.com/album/2RHAyIlKGMvJ8cHlK4zpXw?si=Bhxoe7YeRouZuy74MkN_bA&dl_branch=1) 
+
 
 # Electronic Artsy Drum n Bass
 - Squarepusher
