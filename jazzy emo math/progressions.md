@@ -48,6 +48,7 @@
 | `IV` `V` `vi` `I` | Major lift, maintain harmonic speed (no `%`)|
 | `IV` `V` `iii` `vi` | keep "minor" vibes and Harmonic Speed |
 | `IV` `V` `vi` `( III / iii / IIIdom7 )`||
+|`IVmaj7` `V over b7` `iiim7` `ivmin7` `V passing`||
 | Minor: `i` `bVII(1st)` `bIII` `V(1st)/iv`||
 |||
 | Similar Sound But Diff Prog ||
