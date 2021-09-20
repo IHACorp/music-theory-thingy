@@ -85,7 +85,8 @@
 - Yin Yin: [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK?si=CH1revISQi63saPFk2TcJg&dl_branch=1) 
 
 # Tradicional Jazz
- - [Jeff Hamilton Trio | Live At Jazz Port Townsend](https://www.youtube.com/watch?v=BUaBJ_uNmRA)
+- [Jeff Hamilton Trio | Live At Jazz Port Townsend](https://www.youtube.com/watch?v=BUaBJ_uNmRA)
+- [Cowboy Bebop Soundtrack](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9?si=SXWbbnMGTfy0iLjptROzGw&dl_branch=1) 
 
 # Math (Mainly Instrumental)
 - Covet: [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
