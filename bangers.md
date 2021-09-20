@@ -43,9 +43,16 @@
   - [How to Leave Town](https://open.spotify.com/album/0lq70zJB8BylaX5tgkNnOA?si=Y36f5janRy2D_DKhaRXV8Q&dl_branch=1)
   - [Twin Fantasy (Mirror to Mirror ) (2010)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI?si=Ck6REIepS26uGUQwLB4vgA&dl_branch=1)
   - [Teens Of Denial](https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP?si=WVImos88SE6TGJOHG1KXdw&dl_branch=1)
+- Cate Le Bon
+  - [Crab Day](https://open.spotify.com/album/6nnGlhallPH0V2bbfrhUPY?si=c6KckbWmT9OGTHDKiPNmHA&dl_branch=1)
+  - [Mug Museum](https://open.spotify.com/album/5YDYLAHQP1EWnXi25cMGfl?si=xuBIK2VSRA6sKil6zqoakw&dl_branch=1) 
+- Minus the Bear
+  - [This Is What I Know ABout Being Gigantic](https://open.spotify.com/album/5jX42MY06JFiQnnfAQa5Go?si=pX-G0hrkRz26fcgOb_3wlQ&dl_branch=1) 
 
 # Soft Indie
 - Peach Pit [You and Your Friends](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w?si=Ktwbe506S8qHm5UcyRU87Q&dl_branch=1)
+- Moses Gunn Collective
+  - [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT?si=tGxTtNCpSjSxLBXZbWTtfQ&dl_branch=1) 
 
 # Hard (Heavy) Indie 
 - grandson
@@ -97,8 +104,14 @@
 
 # Math Hot Mess
 - Hella
+  - [Drugs To The Dear Youth](https://open.spotify.com/album/37mLLG75XaIH72BmF748Tl?si=J2olVbPJTHSbBd8LqKzGhQ&dl_branch=1) 
+  - [X'ed Out](https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA?si=DRkTiIHwQyiq7-pJnjZTMw&dl_branch=1)
+  - [Untitled](https://open.spotify.com/album/1ln2yRMXGG1vLPM1W0Eg7l?si=wapCCMrWTN-PDG-Bz_5qRg&dl_branch=1)
+  - [Trash Generator](https://open.spotify.com/album/1FplfiVCsTW7gm6sOBGF6c?si=Clp-OlILTDeLlFYcDc1LTQ&dl_branch=1)
   - [Hold Your Horse Is](https://open.spotify.com/album/2RHAyIlKGMvJ8cHlK4zpXw?si=Bhxoe7YeRouZuy74MkN_bA&dl_branch=1) 
-
+- You Slut!
+  - [Medium Bastard](https://open.spotify.com/album/6HppO1aQwoT69S9StRzBns?si=1uHYUyCqTw-oy2N6j0p60Q&dl_branch=1)
+  - [Critical Meat](https://open.spotify.com/album/4fx6ebPKo3CNH8HuFfykK1?si=1bRiJgpWQVOYcfb-l5Vz8g&dl_branch=1)
 
 # Electronic Artsy Drum n Bass
 - Squarepusher
@@ -106,11 +119,11 @@
   - [Burningn'n Tree](https://open.spotify.com/album/6991r3NVsEyN0M32pHtqdo?si=Px-IjTriQIqZK7NyhLN32g&dl_branch=1)
   - [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS?si=HZ56Tfv8QCS4xrLwQpoVJA&dl_branch=1)
   - [Solo Electric Bass 1](https://open.spotify.com/album/7dqga1aHgArtvABnr5PyOe?si=XmDTxdU7RFuy9dxJ9BeU4A&dl_branch=1)
-
 -Three Trapped Tigers
   - [Silent Earthling](https://open.spotify.com/album/0KIUMm3Br5jHyMd4O6KyDW?si=bfBuGnEKQgOU9ur6qjhpOA&dl_branch=1)
   - [Numbers: 1-13](https://open.spotify.com/album/6WJxBh0qqaZzLKcmP8NaTM?si=NSRIf-Y5QBqIACzmo0vWzw&dl_branch=1)
   - [Route One or Die](https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH?si=CyUgTwcPSrWAgRWCCJpQVQ&dl_branch=1)
+ 
 # Hyperpop
 - Patricia Taxxon
   - [Yes, And](https://www.youtube.com/watch?v=OU9vzwosBCk)
