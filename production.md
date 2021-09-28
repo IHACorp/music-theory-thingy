@@ -50,6 +50,13 @@ I have no idea what im doing, im not a producer
     - If you can clearly hear the rev at 70%, put 65%
     - Predelay 50ms: avoid messing hit's transient 
 
+# Guitar
+## Tips
+- EQ L and R diff
+  - https://www.youtube.com/watch?v=tbWdIquFMaI
+  - L: (1800, +1.5, small) (4200, -1.5, medium) 
+  - R: (1800, -1.5, small) (4200, +1.5, medium) 
+
 # Vocals
 ## Pop Rock
 - Verse (https://www.youtube.com/watch?v=jvICtXpTmH0)
