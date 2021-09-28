@@ -120,6 +120,7 @@
   - [Burningn'n Tree](https://open.spotify.com/album/6991r3NVsEyN0M32pHtqdo?si=Px-IjTriQIqZK7NyhLN32g&dl_branch=1)
   - [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS?si=HZ56Tfv8QCS4xrLwQpoVJA&dl_branch=1)
   - [Solo Electric Bass 1](https://open.spotify.com/album/7dqga1aHgArtvABnr5PyOe?si=XmDTxdU7RFuy9dxJ9BeU4A&dl_branch=1)
+
 -Three Trapped Tigers
   - [Silent Earthling](https://open.spotify.com/album/0KIUMm3Br5jHyMd4O6KyDW?si=bfBuGnEKQgOU9ur6qjhpOA&dl_branch=1)
   - [Numbers: 1-13](https://open.spotify.com/album/6WJxBh0qqaZzLKcmP8NaTM?si=NSRIf-Y5QBqIACzmo0vWzw&dl_branch=1)
