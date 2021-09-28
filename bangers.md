@@ -120,8 +120,7 @@
   - [Burningn'n Tree](https://open.spotify.com/album/6991r3NVsEyN0M32pHtqdo?si=Px-IjTriQIqZK7NyhLN32g&dl_branch=1)
   - [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS?si=HZ56Tfv8QCS4xrLwQpoVJA&dl_branch=1)
   - [Solo Electric Bass 1](https://open.spotify.com/album/7dqga1aHgArtvABnr5PyOe?si=XmDTxdU7RFuy9dxJ9BeU4A&dl_branch=1)
-
--Three Trapped Tigers
+- Three Trapped Tigers
   - [Silent Earthling](https://open.spotify.com/album/0KIUMm3Br5jHyMd4O6KyDW?si=bfBuGnEKQgOU9ur6qjhpOA&dl_branch=1)
   - [Numbers: 1-13](https://open.spotify.com/album/6WJxBh0qqaZzLKcmP8NaTM?si=NSRIf-Y5QBqIACzmo0vWzw&dl_branch=1)
   - [Route One or Die](https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH?si=CyUgTwcPSrWAgRWCCJpQVQ&dl_branch=1)
@@ -132,6 +131,7 @@
   - [Sapphire Apts](https://www.youtube.com/watch?v=yG8t_oLJPpM)
 - trust fund Ozu 
   - everything
+
 # Modern Bluesy Guitar / Space Rock
 - [Stone Rebel - Space Arc Collection](https://www.youtube.com/watch?v=ocUT2NCGlRI)
 - Electric Octopus: [This Is Our Culture](https://open.spotify.com/album/72QrDImis2BlbpXBva1VjQ?si=dw7LovvwR9GGDC5JAT2kNA&dl_branch=1) 
