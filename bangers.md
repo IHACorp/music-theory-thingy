@@ -151,6 +151,9 @@
 - [Jaco Pastorius "The Lost Tapes Documentary"](https://www.youtube.com/watch?v=TviJ3ccaSXM)
 - [JACO PASTORIUS - MODERN ELECTRIC BASS](https://www.youtube.com/watch?v=yWJjZP5mzvQ)
 
+# Masterclass
+[Guthrie Govan at G4: 1 to 5](https://youtube.com/playlist?list=PLbkdroQ57mNDy204npgel0cqv4_wDInCB)
+
 # Non Ambiente Xenharmonic
 - Sevish
   - [Harmony Hacker](https://open.spotify.com/album/61NYclP8BapCT54gttN4Pi?si=b5ySQM8cToG-dUo3j0_U5w&dl_branch=1) 
