@@ -19,6 +19,9 @@
 # Noise
 - Poppy: [Music To Scream To](https://open.spotify.com/album/5aFEH9QTGIezl6Go97RVRl?si=W2yTwQe9QsOvNuA88t9zVw&dl_branch=1) 
 
+# Ambient
+- [Aphex Twin - Soundcloud Ambient](https://www.youtube.com/watch?v=Gj5SD2zMivU)
+
 # Pop/Rap
 - Tyler, The Creator [NPR Tiny Desk](https://www.youtube.com/watch?v=N1w-hDiJ4dM)
 - Ren
@@ -26,8 +29,6 @@
   - [The Tale of Jenny & Screech](https://open.spotify.com/album/6DsODgnp2qCn2gWMSe1BWt?si=N17lY_bsT8G5dGd1epL2Cg&dl_branch=1)
   - [Song: Money Game](https://open.spotify.com/track/0dfmnkAfTRMdvVp5gqI8VG?si=a3a3e3fd977f44bf) 
   - [Song: Children Of The Moon](https://open.spotify.com/track/60KuHvuz4Ko0AFHllhbVFq?si=cb47ff99bf50435e)
-
-
 
 # Cool indie
 - IDK How But They Me
