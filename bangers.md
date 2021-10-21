@@ -135,6 +135,7 @@
   - [Sapphire Apts](https://www.youtube.com/watch?v=yG8t_oLJPpM)
 - trust fund Ozu 
   - everything
+- Osno1: [Dumb Pics: osno1 – Radio Mix | Jul 7, 2018](https://www.youtube.com/watch?v=9Zt7ZQtRIiw&t=2384s)
 
 # Funk
 - Graham Central Station [Song: Hair](https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0?si=1e0507962fbe4ede)
