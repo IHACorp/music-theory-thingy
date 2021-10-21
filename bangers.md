@@ -88,6 +88,9 @@
 # Tradicional Jazz
 - [Jeff Hamilton Trio | Live At Jazz Port Townsend](https://www.youtube.com/watch?v=BUaBJ_uNmRA)
 - [Cowboy Bebop Soundtrack](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9?si=SXWbbnMGTfy0iLjptROzGw&dl_branch=1) 
+- [Discover Jazz - Christian McBride Trio](https://youtu.be/MpqSkj5GZvs)
+- [Christian Mcbride trio cherokee](https://youtu.be/eyl-dD5qLjk)
+- [Caravan - The Joshua Bowlus Quartet - featuring Ulysses Owens Jr.](https://youtu.be/dWyztLU4ARg)
 
 # Math (Mainly Instrumental)
 - Covet: [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
@@ -132,10 +135,6 @@
   - [Sapphire Apts](https://www.youtube.com/watch?v=yG8t_oLJPpM)
 - trust fund Ozu 
   - everything
-
-# Modern Bluesy Guitar / Space Rock
-- [Stone Rebel - Space Arc Collection](https://www.youtube.com/watch?v=ocUT2NCGlRI)
-- Electric Octopus: [This Is Our Culture](https://open.spotify.com/album/72QrDImis2BlbpXBva1VjQ?si=dw7LovvwR9GGDC5JAT2kNA&dl_branch=1) 
 
 # Funk
 - Graham Central Station [Song: Hair](https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0?si=1e0507962fbe4ede)
