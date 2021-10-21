@@ -136,6 +136,7 @@
 - trust fund Ozu 
   - everything
 - Osno1: [Dumb Pics: osno1 – Radio Mix | Jul 7, 2018](https://www.youtube.com/watch?v=9Zt7ZQtRIiw&t=2384s)
+- SOPHIE: [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq?si=99941d1ccc5a43a9)
 
 # Funk
 - Graham Central Station [Song: Hair](https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0?si=1e0507962fbe4ede)
