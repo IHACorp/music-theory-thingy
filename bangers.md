@@ -91,6 +91,10 @@
 - [Discover Jazz - Christian McBride Trio](https://youtu.be/MpqSkj5GZvs)
 - [Christian Mcbride trio cherokee](https://youtu.be/eyl-dD5qLjk)
 - [Caravan - The Joshua Bowlus Quartet - featuring Ulysses Owens Jr.](https://youtu.be/dWyztLU4ARg)
+- [Victor Wooten - Isn't She Lovely](https://www.youtube.com/watch?v=eynnYLXW3Fo)
+
+## Bebop
+- [George Benson playing "Take Five"](https://www.youtube.com/watch?v=r0KOzrMUt10)
 
 # Math (Mainly Instrumental)
 - Covet: [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
