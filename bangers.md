@@ -160,6 +160,8 @@
 # Documentary
 - [Jaco Pastorius "The Lost Tapes Documentary"](https://www.youtube.com/watch?v=TviJ3ccaSXM)
 - [JACO PASTORIUS - MODERN ELECTRIC BASS](https://www.youtube.com/watch?v=yWJjZP5mzvQ)
+- Frank Zappa (VIDEO) A pioneer of Future Music (video documentary)
+  - It was taken down :(
 
 # Masterclass
 [Guthrie Govan at G4: 1 to 5](https://youtube.com/playlist?list=PLbkdroQ57mNDy204npgel0cqv4_wDInCB)
