@@ -11,6 +11,8 @@
   - [High Visceral, Pt 2](https://open.spotify.com/album/7FYAHQXSCN80hqBZXUvKwj?si=xF2PopITRnGd1YISNZnasQ&dl_branch=1)
 - Radiohead
   - [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f?si=u6N1vOnlTaiPAvUfYKMrmw&dl_branch=1)
+- KGLW
+  - [Polygondwanaland](https://www.youtube.com/watch?v=XAdBWnp8W7Q) (Tetrachromacy>>>>)
 
 # Post Punk
 - Public Image Ltd : [Metal Box](https://open.spotify.com/album/7HoqZkuUQEE12tl0ByOSsh?si=KUP0kGmmQmahmae44qpwuA&dl_branch=1) 
@@ -21,7 +23,10 @@
 
 # Ambient
 - [Aphex Twin - Soundcloud Ambient](https://www.youtube.com/watch?v=Gj5SD2zMivU)
-
+- Brian Eno
+  - [Music For Instalations](https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq?si=saOHEv_dRYqxvIC3v2ZNaw)
+  - [Ambient 1: Music for Airports](https://www.youtube.com/watch?v=vNwYtllyt3Q)
+  
 # Pop/Rap
 - Tyler, The Creator [NPR Tiny Desk](https://www.youtube.com/watch?v=N1w-hDiJ4dM)
 - Ren
@@ -88,12 +93,13 @@
 # Tradicional Jazz
 - [Jeff Hamilton Trio | Live At Jazz Port Townsend](https://www.youtube.com/watch?v=BUaBJ_uNmRA)
 - [Cowboy Bebop Soundtrack](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9?si=SXWbbnMGTfy0iLjptROzGw&dl_branch=1) 
-- [Discover Jazz - Christian McBride Trio](https://youtu.be/MpqSkj5GZvs)
-- [Christian Mcbride trio cherokee](https://youtu.be/eyl-dD5qLjk)
+- Christian McBride
+  - [Discover Jazz - Christian McBride Trio](https://youtu.be/MpqSkj5GZvs)
+  - [Christian Mcbride trio cherokee](https://youtu.be/eyl-dD5qLjk)
 - [Caravan - The Joshua Bowlus Quartet - featuring Ulysses Owens Jr.](https://youtu.be/dWyztLU4ARg)
 - [Victor Wooten - Isn't She Lovely](https://www.youtube.com/watch?v=eynnYLXW3Fo)
-
-## Bebop
+- Ella Fitzgerald
+  - [Joe Pass & Ella Fitzgerald - Duets in Hannover 1975](https://youtu.be/2olBE4C5_Gk)
 - [George Benson playing "Take Five"](https://www.youtube.com/watch?v=r0KOzrMUt10)
 
 # Math (Mainly Instrumental)
@@ -122,6 +128,10 @@
   - [Medium Bastard](https://open.spotify.com/album/6HppO1aQwoT69S9StRzBns?si=1uHYUyCqTw-oy2N6j0p60Q&dl_branch=1)
   - [Critical Meat](https://open.spotify.com/album/4fx6ebPKo3CNH8HuFfykK1?si=1bRiJgpWQVOYcfb-l5Vz8g&dl_branch=1)
 
+# Stupid
+- Frank Zappa 
+  - [Jazz From Hell](https://youtube.com/playlist?list=OLAK5uy_mnckuz4zNtabjtA6QTRvo-5dhdpBLWWWo)
+
 # Electronic Artsy Drum n Bass
 - Squarepusher
   - [Feed Me Weird Things](https://open.spotify.com/album/3mr4Eo5QyvLqvghU1usLM4?si=L9VknSGyQNGVqlxa4dYB7A&dl_branch=1)
@@ -147,6 +157,10 @@
 
 # Funk
 - Graham Central Station [Song: Hair](https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0?si=1e0507962fbe4ede)
+
+# Samba / Bossa
+- Criolo
+  - [Criolo - Samba em 3 Tempos](https://youtu.be/OkJ0tmNblZo)
 
 # Spectralism
 - [Tristan Murail Désintégrations with Sonic Visualizer](https://www.youtube.com/watch?v=4basuUUatf8)
