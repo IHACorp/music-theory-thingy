@@ -158,9 +158,24 @@
 # Funk
 - Graham Central Station [Song: Hair](https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0?si=1e0507962fbe4ede)
 
+# Flamenco
+- Paco de Lucia
+   - COMPILATION [PACO DE LUCIA Exitos ~ Best Songs of PACO DE LUCIA 2020](https://youtu.be/tLu8b_xscjU)
+
 # Samba / Bossa
 - Criolo
   - [Criolo - Samba em 3 Tempos](https://youtu.be/OkJ0tmNblZo)
+- Jobim
+  - [Tom Jobim, Vinicius de Moraes, Toquinho e Miucha Ao Vivo na Itália](https://youtu.be/crruMnUlGcY?t=2453)
+    - Essa versao de garota de ipanema >>>  
+- [Toquinho & Paulinho Nogueira](https://youtube.com/playlist?list=OLAK5uy_mi2Rcyu1-dWfsDCOa82Vvr193pAxSwZL0)
+- [Toquinho e Vinícius - O poeta e o violão ](https://youtu.be/dfj2bXNQeBg)
+- Milton Banana
+  - [Ao Meu Amigo Tom](https://youtu.be/WqQ0UBWONF0) 
+  - [Balançando](https://youtu.be/JBi062bpZLQ)
+  - [Ao meu amigo Chico - SAMBA É ISSO/VOL.3](https://youtube.com/playlist?list=PLWF-8gjeg6DZnOY5go2DDacrce4OcR_0I)
+    - afasta o calice logo por favor  
+
 
 # Spectralism
 - [Tristan Murail Désintégrations with Sonic Visualizer](https://www.youtube.com/watch?v=4basuUUatf8)
