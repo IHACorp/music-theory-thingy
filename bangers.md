@@ -101,6 +101,8 @@
 - Ella Fitzgerald
   - [Joe Pass & Ella Fitzgerald - Duets in Hannover 1975](https://youtu.be/2olBE4C5_Gk)
 - [George Benson playing "Take Five"](https://www.youtube.com/watch?v=r0KOzrMUt10)
+- [Yusef Lateef – Jazz Mood - 1957](https://youtu.be/5_9Zg3CSnvU)
+
 
 # Math (Mainly Instrumental)
 - Covet: [Technicolor](https://open.spotify.com/album/3ouZZp6tCRElZLb4Qe0KVR?si=WKYDDszlQqGJZQNs9dtuMQ&dl_branch=1)
